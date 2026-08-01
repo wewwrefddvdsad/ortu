@@ -1,10 +1,10 @@
 // File ini di-generate otomatis dari Google Sheets.
 // Jangan edit manual, perubahan akan tertimpa.
-// Terakhir diperbarui: 2026-07-31T18:02:34.148Z
+// Terakhir diperbarui: 2026-08-01T05:51:22.397Z
 
 var kalender = [
   [
-    "X.1",
+    "IX.A",
     "",
     "",
     "",
@@ -34,7 +34,6 @@ var kalender = [
     "",
     "",
     "",
-    "Bahasa Inggris☯️30/7☯️Introduction☯️Siswa mengetahui nama nama teman kelasnya☯️Latihan mandiri☯️Siswa melakukan repetition baik di sekolah maupun dirumah",
     "",
     "",
     "",
@@ -42,7 +41,6 @@ var kalender = [
     "",
     "",
     "",
-    "IPA (KIMIA)☯️7/8☯️Perkembangan teori Atom☯️Mampu memahami perkembangan teori atom☯️Membuat ringkasan berkaitan dengan perkembangan teori atom☯️Tugas ringkasan ini harus selesai dikerjakan.",
     "",
     "",
     "",
@@ -189,11 +187,13 @@ var kalender = [
     "",
     "",
     "",
-    "-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Hari Pertama Masuk Sekolah☯️TL🐸Kegiatan MPLS☯️TL🫏Kegiatan MPLS☯️TL🫏Kegiatan MPLS☯️TL🫏Kegiatan MPLS☯️TL🫏Kegiatan MPLS☯️TL🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Mengikuti Upacara HUT Kemerdekaan RI☯️TL🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Libur Umum (Peringatan Maulid Nabi Muhammad SAW 1448 H)☯️L🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Mengikuti Upacara Hari Kesaktian Pancasila☯️TL🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🐸Mengikuti Upacara Peringatan Hari Sumpah Pemuda☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏-🫏-🫏-🫏-🫏Mengikuti Upacara Peringatan Hari Pahlawan☯️TL🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Penyerahan Buku Laporan Hasil Belajar Semester Gasal ☯️TL🫏-🫏-🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🐸Cuti Bersama sebelum Hari Raya Natal☯️TL🫏Libur Akhir Semester Gasal☯️L🐸Libur Umum (Hari Raya Natal)☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L",
+    "",
+    "",
+    "-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Hari Pertama Masuk Sekolah☯️TL🐸Kegiatan MPLS☯️TL🫏Kegiatan MPLS☯️TL🫏Kegiatan MPLS☯️TL🫏Kegiatan MPLS☯️TL🫏Kegiatan MPLS☯️TL🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Mengikuti Upacara HUT Kemerdekaan RI☯️TL🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Libur Umum (Peringatan Maulid Nabi Muhammad SAW 1448 H)☯️L🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Mengikuti Upacara Hari Kesaktian Pancasila☯️TL🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Mengikuti Upacara Peringatan Hari Sumpah Pemuda☯️TL🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Mengikuti Upacara Peringatan Hari Pahlawan☯️TL🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Penyerahan Buku Laporan Hasil Belajar Semester Gasal☯️TL🫏-🫏Libur Akhir Semester Gasal ☯️L🫏Libur Akhir Semester Gasal ☯️L🫏Libur Akhir Semester Gasal ☯️L🫏Libur Akhir Semester Gasal ☯️L🐸Libur Cuti Bersama sebelum Hari Raya Natal☯️L🫏Libur Akhir Semester Gasal ☯️L🐸Libur Umum (Hari Raya Natal)☯️L🫏Libur Akhir Semester Gasal ☯️L🫏Libur Akhir Semester Gasal ☯️L🫏Libur Akhir Semester Gasal ☯️L🫏Libur Akhir Semester Gasal ☯️L🫏Libur Akhir Semester Gasal ☯️L🫏Libur Akhir Semester Gasal ☯️L",
     2026
   ],
   [
-    "X.2",
+    "IX.B",
     "",
     "",
     "",
@@ -378,11 +378,11 @@ var kalender = [
     "",
     "",
     "",
-    "-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Hari Pertama Masuk Sekolah☯️TL🐸Kegiatan MPLS☯️TL🫏Kegiatan MPLS☯️TL🫏Kegiatan MPLS☯️TL🫏Kegiatan MPLS☯️TL🫏Kegiatan MPLS☯️TL🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Mengikuti Upacara HUT Kemerdekaan RI☯️TL🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Libur Umum (Peringatan Maulid Nabi Muhammad SAW 1448 H)☯️L🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Mengikuti Upacara Hari Kesaktian Pancasila☯️TL🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🐸Mengikuti Upacara Peringatan Hari Sumpah Pemuda☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏-🫏-🫏-🫏-🫏Mengikuti Upacara Peringatan Hari Pahlawan☯️TL🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Penyerahan Buku Laporan Hasil Belajar Semester Gasal ☯️TL🫏-🫏-🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🐸Cuti Bersama sebelum Hari Raya Natal☯️TL🫏Libur Akhir Semester Gasal☯️L🐸Libur Umum (Hari Raya Natal)☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L",
+    "-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Hari Pertama Masuk Sekolah☯️TL🐸Kegiatan MPLS☯️TL🫏Kegiatan MPLS☯️TL🫏Kegiatan MPLS☯️TL🫏Kegiatan MPLS☯️TL🫏Kegiatan MPLS☯️TL🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Mengikuti Upacara HUT Kemerdekaan RI☯️TL🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Libur Umum (Peringatan Maulid Nabi Muhammad SAW 1448 H)☯️L🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Mengikuti Upacara Hari Kesaktian Pancasila☯️TL🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Mengikuti Upacara Peringatan Hari Sumpah Pemuda☯️TL🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Mengikuti Upacara Peringatan Hari Pahlawan☯️TL🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Penyerahan Buku Laporan Hasil Belajar Semester Gasal☯️TL🫏-🫏Libur Akhir Semester Gasal ☯️L🫏Libur Akhir Semester Gasal ☯️L🫏Libur Akhir Semester Gasal ☯️L🫏Libur Akhir Semester Gasal ☯️L🐸Libur Cuti Bersama sebelum Hari Raya Natal☯️L🫏Libur Akhir Semester Gasal ☯️L🐸Libur Umum (Hari Raya Natal)☯️L🫏Libur Akhir Semester Gasal ☯️L🫏Libur Akhir Semester Gasal ☯️L🫏Libur Akhir Semester Gasal ☯️L🫏Libur Akhir Semester Gasal ☯️L🫏Libur Akhir Semester Gasal ☯️L🫏Libur Akhir Semester Gasal ☯️L",
     2026
   ],
   [
-    "X.3",
+    "IX.C",
     "",
     "",
     "",
@@ -567,11 +567,11 @@ var kalender = [
     "",
     "",
     "",
-    "-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Hari Pertama Masuk Sekolah☯️TL🐸Kegiatan MPLS☯️TL🫏Kegiatan MPLS☯️TL🫏Kegiatan MPLS☯️TL🫏Kegiatan MPLS☯️TL🫏Kegiatan MPLS☯️TL🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Mengikuti Upacara HUT Kemerdekaan RI☯️TL🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Libur Umum (Peringatan Maulid Nabi Muhammad SAW 1448 H)☯️L🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Mengikuti Upacara Hari Kesaktian Pancasila☯️TL🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🐸Mengikuti Upacara Peringatan Hari Sumpah Pemuda☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏-🫏-🫏-🫏-🫏Mengikuti Upacara Peringatan Hari Pahlawan☯️TL🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Penyerahan Buku Laporan Hasil Belajar Semester Gasal ☯️TL🫏-🫏-🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🐸Cuti Bersama sebelum Hari Raya Natal☯️TL🫏Libur Akhir Semester Gasal☯️L🐸Libur Umum (Hari Raya Natal)☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L",
+    "-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Hari Pertama Masuk Sekolah☯️TL🐸Kegiatan MPLS☯️TL🫏Kegiatan MPLS☯️TL🫏Kegiatan MPLS☯️TL🫏Kegiatan MPLS☯️TL🫏Kegiatan MPLS☯️TL🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Mengikuti Upacara HUT Kemerdekaan RI☯️TL🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Libur Umum (Peringatan Maulid Nabi Muhammad SAW 1448 H)☯️L🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Mengikuti Upacara Hari Kesaktian Pancasila☯️TL🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Mengikuti Upacara Peringatan Hari Sumpah Pemuda☯️TL🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Mengikuti Upacara Peringatan Hari Pahlawan☯️TL🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Penyerahan Buku Laporan Hasil Belajar Semester Gasal☯️TL🫏-🫏Libur Akhir Semester Gasal ☯️L🫏Libur Akhir Semester Gasal ☯️L🫏Libur Akhir Semester Gasal ☯️L🫏Libur Akhir Semester Gasal ☯️L🐸Libur Cuti Bersama sebelum Hari Raya Natal☯️L🫏Libur Akhir Semester Gasal ☯️L🐸Libur Umum (Hari Raya Natal)☯️L🫏Libur Akhir Semester Gasal ☯️L🫏Libur Akhir Semester Gasal ☯️L🫏Libur Akhir Semester Gasal ☯️L🫏Libur Akhir Semester Gasal ☯️L🫏Libur Akhir Semester Gasal ☯️L🫏Libur Akhir Semester Gasal ☯️L",
     2026
   ],
   [
-    "X.4",
+    "VIII.A",
     "",
     "",
     "",
@@ -756,11 +756,11 @@ var kalender = [
     "",
     "",
     "",
-    "-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Hari Pertama Masuk Sekolah☯️TL🐸Kegiatan MPLS☯️TL🫏Kegiatan MPLS☯️TL🫏Kegiatan MPLS☯️TL🫏Kegiatan MPLS☯️TL🫏Kegiatan MPLS☯️TL🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Mengikuti Upacara HUT Kemerdekaan RI☯️TL🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Libur Umum (Peringatan Maulid Nabi Muhammad SAW 1448 H)☯️L🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Mengikuti Upacara Hari Kesaktian Pancasila☯️TL🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🐸Mengikuti Upacara Peringatan Hari Sumpah Pemuda☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏-🫏-🫏-🫏-🫏Mengikuti Upacara Peringatan Hari Pahlawan☯️TL🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Penyerahan Buku Laporan Hasil Belajar Semester Gasal ☯️TL🫏-🫏-🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🐸Cuti Bersama sebelum Hari Raya Natal☯️TL🫏Libur Akhir Semester Gasal☯️L🐸Libur Umum (Hari Raya Natal)☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L",
+    "-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Hari Pertama Masuk Sekolah☯️TL🐸Kegiatan MPLS☯️TL🫏Kegiatan MPLS☯️TL🫏Kegiatan MPLS☯️TL🫏Kegiatan MPLS☯️TL🫏Kegiatan MPLS☯️TL🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Mengikuti Upacara HUT Kemerdekaan RI☯️TL🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Libur Umum (Peringatan Maulid Nabi Muhammad SAW 1448 H)☯️L🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Mengikuti Upacara Hari Kesaktian Pancasila☯️TL🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Mengikuti Upacara Peringatan Hari Sumpah Pemuda☯️TL🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Mengikuti Upacara Peringatan Hari Pahlawan☯️TL🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Penyerahan Buku Laporan Hasil Belajar Semester Gasal☯️TL🫏-🫏Libur Akhir Semester Gasal ☯️L🫏Libur Akhir Semester Gasal ☯️L🫏Libur Akhir Semester Gasal ☯️L🫏Libur Akhir Semester Gasal ☯️L🐸Libur Cuti Bersama sebelum Hari Raya Natal☯️L🫏Libur Akhir Semester Gasal ☯️L🐸Libur Umum (Hari Raya Natal)☯️L🫏Libur Akhir Semester Gasal ☯️L🫏Libur Akhir Semester Gasal ☯️L🫏Libur Akhir Semester Gasal ☯️L🫏Libur Akhir Semester Gasal ☯️L🫏Libur Akhir Semester Gasal ☯️L🫏Libur Akhir Semester Gasal ☯️L",
     2026
   ],
   [
-    "X.5",
+    "VIII.B",
     "",
     "",
     "",
@@ -945,11 +945,11 @@ var kalender = [
     "",
     "",
     "",
-    "-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Hari Pertama Masuk Sekolah☯️TL🐸Kegiatan MPLS☯️TL🫏Kegiatan MPLS☯️TL🫏Kegiatan MPLS☯️TL🫏Kegiatan MPLS☯️TL🫏Kegiatan MPLS☯️TL🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Mengikuti Upacara HUT Kemerdekaan RI☯️TL🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Libur Umum (Peringatan Maulid Nabi Muhammad SAW 1448 H)☯️L🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Mengikuti Upacara Hari Kesaktian Pancasila☯️TL🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🐸Mengikuti Upacara Peringatan Hari Sumpah Pemuda☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏-🫏-🫏-🫏-🫏Mengikuti Upacara Peringatan Hari Pahlawan☯️TL🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Penyerahan Buku Laporan Hasil Belajar Semester Gasal ☯️TL🫏-🫏-🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🐸Cuti Bersama sebelum Hari Raya Natal☯️TL🫏Libur Akhir Semester Gasal☯️L🐸Libur Umum (Hari Raya Natal)☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L",
+    "-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Hari Pertama Masuk Sekolah☯️TL🐸Kegiatan MPLS☯️TL🫏Kegiatan MPLS☯️TL🫏Kegiatan MPLS☯️TL🫏Kegiatan MPLS☯️TL🫏Kegiatan MPLS☯️TL🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Mengikuti Upacara HUT Kemerdekaan RI☯️TL🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Libur Umum (Peringatan Maulid Nabi Muhammad SAW 1448 H)☯️L🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Mengikuti Upacara Hari Kesaktian Pancasila☯️TL🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Mengikuti Upacara Peringatan Hari Sumpah Pemuda☯️TL🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Mengikuti Upacara Peringatan Hari Pahlawan☯️TL🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Penyerahan Buku Laporan Hasil Belajar Semester Gasal☯️TL🫏-🫏Libur Akhir Semester Gasal ☯️L🫏Libur Akhir Semester Gasal ☯️L🫏Libur Akhir Semester Gasal ☯️L🫏Libur Akhir Semester Gasal ☯️L🐸Libur Cuti Bersama sebelum Hari Raya Natal☯️L🫏Libur Akhir Semester Gasal ☯️L🐸Libur Umum (Hari Raya Natal)☯️L🫏Libur Akhir Semester Gasal ☯️L🫏Libur Akhir Semester Gasal ☯️L🫏Libur Akhir Semester Gasal ☯️L🫏Libur Akhir Semester Gasal ☯️L🫏Libur Akhir Semester Gasal ☯️L🫏Libur Akhir Semester Gasal ☯️L",
     2026
   ],
   [
-    "X.6",
+    "VIII.C",
     "",
     "",
     "",
@@ -1134,11 +1134,11 @@ var kalender = [
     "",
     "",
     "",
-    "-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Hari Pertama Masuk Sekolah☯️TL🐸Kegiatan MPLS☯️TL🫏Kegiatan MPLS☯️TL🫏Kegiatan MPLS☯️TL🫏Kegiatan MPLS☯️TL🫏Kegiatan MPLS☯️TL🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Mengikuti Upacara HUT Kemerdekaan RI☯️TL🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Libur Umum (Peringatan Maulid Nabi Muhammad SAW 1448 H)☯️L🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Mengikuti Upacara Hari Kesaktian Pancasila☯️TL🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🐸Mengikuti Upacara Peringatan Hari Sumpah Pemuda☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏-🫏-🫏-🫏-🫏Mengikuti Upacara Peringatan Hari Pahlawan☯️TL🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Penyerahan Buku Laporan Hasil Belajar Semester Gasal ☯️TL🫏-🫏-🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🐸Cuti Bersama sebelum Hari Raya Natal☯️TL🫏Libur Akhir Semester Gasal☯️L🐸Libur Umum (Hari Raya Natal)☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L",
+    "-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Hari Pertama Masuk Sekolah☯️TL🐸Kegiatan MPLS☯️TL🫏Kegiatan MPLS☯️TL🫏Kegiatan MPLS☯️TL🫏Kegiatan MPLS☯️TL🫏Kegiatan MPLS☯️TL🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Mengikuti Upacara HUT Kemerdekaan RI☯️TL🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Libur Umum (Peringatan Maulid Nabi Muhammad SAW 1448 H)☯️L🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Mengikuti Upacara Hari Kesaktian Pancasila☯️TL🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Mengikuti Upacara Peringatan Hari Sumpah Pemuda☯️TL🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Mengikuti Upacara Peringatan Hari Pahlawan☯️TL🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Penyerahan Buku Laporan Hasil Belajar Semester Gasal☯️TL🫏-🫏Libur Akhir Semester Gasal ☯️L🫏Libur Akhir Semester Gasal ☯️L🫏Libur Akhir Semester Gasal ☯️L🫏Libur Akhir Semester Gasal ☯️L🐸Libur Cuti Bersama sebelum Hari Raya Natal☯️L🫏Libur Akhir Semester Gasal ☯️L🐸Libur Umum (Hari Raya Natal)☯️L🫏Libur Akhir Semester Gasal ☯️L🫏Libur Akhir Semester Gasal ☯️L🫏Libur Akhir Semester Gasal ☯️L🫏Libur Akhir Semester Gasal ☯️L🫏Libur Akhir Semester Gasal ☯️L🫏Libur Akhir Semester Gasal ☯️L",
     2026
   ],
   [
-    "X.7",
+    "VII.A",
     "",
     "",
     "",
@@ -1323,11 +1323,11 @@ var kalender = [
     "",
     "",
     "",
-    "-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Hari Pertama Masuk Sekolah☯️TL🐸Kegiatan MPLS☯️TL🫏Kegiatan MPLS☯️TL🫏Kegiatan MPLS☯️TL🫏Kegiatan MPLS☯️TL🫏Kegiatan MPLS☯️TL🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Mengikuti Upacara HUT Kemerdekaan RI☯️TL🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Libur Umum (Peringatan Maulid Nabi Muhammad SAW 1448 H)☯️L🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Mengikuti Upacara Hari Kesaktian Pancasila☯️TL🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🐸Mengikuti Upacara Peringatan Hari Sumpah Pemuda☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏-🫏-🫏-🫏-🫏Mengikuti Upacara Peringatan Hari Pahlawan☯️TL🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Penyerahan Buku Laporan Hasil Belajar Semester Gasal ☯️TL🫏-🫏-🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🐸Cuti Bersama sebelum Hari Raya Natal☯️TL🫏Libur Akhir Semester Gasal☯️L🐸Libur Umum (Hari Raya Natal)☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L",
+    "-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Hari Pertama Masuk Sekolah☯️TL🐸Kegiatan MPLS☯️TL🫏Kegiatan MPLS☯️TL🫏Kegiatan MPLS☯️TL🫏Kegiatan MPLS☯️TL🫏Kegiatan MPLS☯️TL🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Mengikuti Upacara HUT Kemerdekaan RI☯️TL🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Libur Umum (Peringatan Maulid Nabi Muhammad SAW 1448 H)☯️L🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Mengikuti Upacara Hari Kesaktian Pancasila☯️TL🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Mengikuti Upacara Peringatan Hari Sumpah Pemuda☯️TL🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Mengikuti Upacara Peringatan Hari Pahlawan☯️TL🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Penyerahan Buku Laporan Hasil Belajar Semester Gasal☯️TL🫏-🫏Libur Akhir Semester Gasal ☯️L🫏Libur Akhir Semester Gasal ☯️L🫏Libur Akhir Semester Gasal ☯️L🫏Libur Akhir Semester Gasal ☯️L🐸Libur Cuti Bersama sebelum Hari Raya Natal☯️L🫏Libur Akhir Semester Gasal ☯️L🐸Libur Umum (Hari Raya Natal)☯️L🫏Libur Akhir Semester Gasal ☯️L🫏Libur Akhir Semester Gasal ☯️L🫏Libur Akhir Semester Gasal ☯️L🫏Libur Akhir Semester Gasal ☯️L🫏Libur Akhir Semester Gasal ☯️L🫏Libur Akhir Semester Gasal ☯️L",
     2026
   ],
   [
-    "X.8",
+    "VII.B",
     "",
     "",
     "",
@@ -1512,11 +1512,11 @@ var kalender = [
     "",
     "",
     "",
-    "-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Hari Pertama Masuk Sekolah☯️TL🐸Kegiatan MPLS☯️TL🫏Kegiatan MPLS☯️TL🫏Kegiatan MPLS☯️TL🫏Kegiatan MPLS☯️TL🫏Kegiatan MPLS☯️TL🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Mengikuti Upacara HUT Kemerdekaan RI☯️TL🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Libur Umum (Peringatan Maulid Nabi Muhammad SAW 1448 H)☯️L🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Mengikuti Upacara Hari Kesaktian Pancasila☯️TL🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🐸Mengikuti Upacara Peringatan Hari Sumpah Pemuda☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏-🫏-🫏-🫏-🫏Mengikuti Upacara Peringatan Hari Pahlawan☯️TL🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Penyerahan Buku Laporan Hasil Belajar Semester Gasal ☯️TL🫏-🫏-🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🐸Cuti Bersama sebelum Hari Raya Natal☯️TL🫏Libur Akhir Semester Gasal☯️L🐸Libur Umum (Hari Raya Natal)☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L",
+    "-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Hari Pertama Masuk Sekolah☯️TL🐸Kegiatan MPLS☯️TL🫏Kegiatan MPLS☯️TL🫏Kegiatan MPLS☯️TL🫏Kegiatan MPLS☯️TL🫏Kegiatan MPLS☯️TL🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Mengikuti Upacara HUT Kemerdekaan RI☯️TL🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Libur Umum (Peringatan Maulid Nabi Muhammad SAW 1448 H)☯️L🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Mengikuti Upacara Hari Kesaktian Pancasila☯️TL🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Mengikuti Upacara Peringatan Hari Sumpah Pemuda☯️TL🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Mengikuti Upacara Peringatan Hari Pahlawan☯️TL🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Penyerahan Buku Laporan Hasil Belajar Semester Gasal☯️TL🫏-🫏Libur Akhir Semester Gasal ☯️L🫏Libur Akhir Semester Gasal ☯️L🫏Libur Akhir Semester Gasal ☯️L🫏Libur Akhir Semester Gasal ☯️L🐸Libur Cuti Bersama sebelum Hari Raya Natal☯️L🫏Libur Akhir Semester Gasal ☯️L🐸Libur Umum (Hari Raya Natal)☯️L🫏Libur Akhir Semester Gasal ☯️L🫏Libur Akhir Semester Gasal ☯️L🫏Libur Akhir Semester Gasal ☯️L🫏Libur Akhir Semester Gasal ☯️L🫏Libur Akhir Semester Gasal ☯️L🫏Libur Akhir Semester Gasal ☯️L",
     2026
   ],
   [
-    "XI.1",
+    "VII.C",
     "",
     "",
     "",
@@ -1701,11 +1701,10 @@ var kalender = [
     "",
     "",
     "",
-    "-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Hari Pertama Masuk Sekolah☯️TL🐸Kegiatan MPLS☯️TL🫏Kegiatan MPLS☯️TL🫏Kegiatan MPLS☯️TL🫏Kegiatan MPLS☯️TL🫏Kegiatan MPLS☯️TL🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Mengikuti Upacara HUT Kemerdekaan RI☯️TL🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Libur Umum (Peringatan Maulid Nabi Muhammad SAW 1448 H)☯️L🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Mengikuti Upacara Hari Kesaktian Pancasila☯️TL🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🐸Mengikuti Upacara Peringatan Hari Sumpah Pemuda☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏-🫏-🫏-🫏-🫏Mengikuti Upacara Peringatan Hari Pahlawan☯️TL🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Penyerahan Buku Laporan Hasil Belajar Semester Gasal ☯️TL🫏-🫏-🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🐸Cuti Bersama sebelum Hari Raya Natal☯️TL🫏Libur Akhir Semester Gasal☯️L🐸Libur Umum (Hari Raya Natal)☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L",
+    "-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Hari Pertama Masuk Sekolah☯️TL🐸Kegiatan MPLS☯️TL🫏Kegiatan MPLS☯️TL🫏Kegiatan MPLS☯️TL🫏Kegiatan MPLS☯️TL🫏Kegiatan MPLS☯️TL🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Mengikuti Upacara HUT Kemerdekaan RI☯️TL🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Libur Umum (Peringatan Maulid Nabi Muhammad SAW 1448 H)☯️L🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Mengikuti Upacara Hari Kesaktian Pancasila☯️TL🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Mengikuti Upacara Peringatan Hari Sumpah Pemuda☯️TL🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Mengikuti Upacara Peringatan Hari Pahlawan☯️TL🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Penyerahan Buku Laporan Hasil Belajar Semester Gasal☯️TL🫏-🫏Libur Akhir Semester Gasal ☯️L🫏Libur Akhir Semester Gasal ☯️L🫏Libur Akhir Semester Gasal ☯️L🫏Libur Akhir Semester Gasal ☯️L🐸Libur Cuti Bersama sebelum Hari Raya Natal☯️L🫏Libur Akhir Semester Gasal ☯️L🐸Libur Umum (Hari Raya Natal)☯️L🫏Libur Akhir Semester Gasal ☯️L🫏Libur Akhir Semester Gasal ☯️L🫏Libur Akhir Semester Gasal ☯️L🫏Libur Akhir Semester Gasal ☯️L🫏Libur Akhir Semester Gasal ☯️L🫏Libur Akhir Semester Gasal ☯️L",
     2026
   ],
   [
-    "XI.2",
     "",
     "",
     "",
@@ -1890,11 +1889,11 @@ var kalender = [
     "",
     "",
     "",
-    "-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Hari Pertama Masuk Sekolah☯️TL🐸Kegiatan MPLS☯️TL🫏Kegiatan MPLS☯️TL🫏Kegiatan MPLS☯️TL🫏Kegiatan MPLS☯️TL🫏Kegiatan MPLS☯️TL🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Mengikuti Upacara HUT Kemerdekaan RI☯️TL🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Libur Umum (Peringatan Maulid Nabi Muhammad SAW 1448 H)☯️L🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Mengikuti Upacara Hari Kesaktian Pancasila☯️TL🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🐸Mengikuti Upacara Peringatan Hari Sumpah Pemuda☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏-🫏-🫏-🫏-🫏Mengikuti Upacara Peringatan Hari Pahlawan☯️TL🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Penyerahan Buku Laporan Hasil Belajar Semester Gasal ☯️TL🫏-🫏-🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🐸Cuti Bersama sebelum Hari Raya Natal☯️TL🫏Libur Akhir Semester Gasal☯️L🐸Libur Umum (Hari Raya Natal)☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L",
-    2026
+    "",
+    "",
+    ""
   ],
   [
-    "XI.3",
     "",
     "",
     "",
@@ -2079,11 +2078,11 @@ var kalender = [
     "",
     "",
     "",
-    "-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Hari Pertama Masuk Sekolah☯️TL🐸Kegiatan MPLS☯️TL🫏Kegiatan MPLS☯️TL🫏Kegiatan MPLS☯️TL🫏Kegiatan MPLS☯️TL🫏Kegiatan MPLS☯️TL🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Mengikuti Upacara HUT Kemerdekaan RI☯️TL🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Libur Umum (Peringatan Maulid Nabi Muhammad SAW 1448 H)☯️L🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Mengikuti Upacara Hari Kesaktian Pancasila☯️TL🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🐸Mengikuti Upacara Peringatan Hari Sumpah Pemuda☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏-🫏-🫏-🫏-🫏Mengikuti Upacara Peringatan Hari Pahlawan☯️TL🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Penyerahan Buku Laporan Hasil Belajar Semester Gasal ☯️TL🫏-🫏-🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🐸Cuti Bersama sebelum Hari Raya Natal☯️TL🫏Libur Akhir Semester Gasal☯️L🐸Libur Umum (Hari Raya Natal)☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L",
-    2026
+    "",
+    "",
+    ""
   ],
   [
-    "XI.4",
     "",
     "",
     "",
@@ -2268,11 +2267,11 @@ var kalender = [
     "",
     "",
     "",
-    "-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Hari Pertama Masuk Sekolah☯️TL🐸Kegiatan MPLS☯️TL🫏Kegiatan MPLS☯️TL🫏Kegiatan MPLS☯️TL🫏Kegiatan MPLS☯️TL🫏Kegiatan MPLS☯️TL🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Mengikuti Upacara HUT Kemerdekaan RI☯️TL🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Libur Umum (Peringatan Maulid Nabi Muhammad SAW 1448 H)☯️L🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Mengikuti Upacara Hari Kesaktian Pancasila☯️TL🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🐸Mengikuti Upacara Peringatan Hari Sumpah Pemuda☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏-🫏-🫏-🫏-🫏Mengikuti Upacara Peringatan Hari Pahlawan☯️TL🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Penyerahan Buku Laporan Hasil Belajar Semester Gasal ☯️TL🫏-🫏-🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🐸Cuti Bersama sebelum Hari Raya Natal☯️TL🫏Libur Akhir Semester Gasal☯️L🐸Libur Umum (Hari Raya Natal)☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L",
-    2026
+    "",
+    "",
+    ""
   ],
   [
-    "XI.5",
     "",
     "",
     "",
@@ -2457,11 +2456,11 @@ var kalender = [
     "",
     "",
     "",
-    "-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Hari Pertama Masuk Sekolah☯️TL🐸Kegiatan MPLS☯️TL🫏Kegiatan MPLS☯️TL🫏Kegiatan MPLS☯️TL🫏Kegiatan MPLS☯️TL🫏Kegiatan MPLS☯️TL🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Mengikuti Upacara HUT Kemerdekaan RI☯️TL🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Libur Umum (Peringatan Maulid Nabi Muhammad SAW 1448 H)☯️L🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Mengikuti Upacara Hari Kesaktian Pancasila☯️TL🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🐸Mengikuti Upacara Peringatan Hari Sumpah Pemuda☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏-🫏-🫏-🫏-🫏Mengikuti Upacara Peringatan Hari Pahlawan☯️TL🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Penyerahan Buku Laporan Hasil Belajar Semester Gasal ☯️TL🫏-🫏-🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🐸Cuti Bersama sebelum Hari Raya Natal☯️TL🫏Libur Akhir Semester Gasal☯️L🐸Libur Umum (Hari Raya Natal)☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L",
-    2026
+    "",
+    "",
+    ""
   ],
   [
-    "XI.6",
     "",
     "",
     "",
@@ -2646,11 +2645,11 @@ var kalender = [
     "",
     "",
     "",
-    "-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Hari Pertama Masuk Sekolah☯️TL🐸Kegiatan MPLS☯️TL🫏Kegiatan MPLS☯️TL🫏Kegiatan MPLS☯️TL🫏Kegiatan MPLS☯️TL🫏Kegiatan MPLS☯️TL🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Mengikuti Upacara HUT Kemerdekaan RI☯️TL🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Libur Umum (Peringatan Maulid Nabi Muhammad SAW 1448 H)☯️L🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Mengikuti Upacara Hari Kesaktian Pancasila☯️TL🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🐸Mengikuti Upacara Peringatan Hari Sumpah Pemuda☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏-🫏-🫏-🫏-🫏Mengikuti Upacara Peringatan Hari Pahlawan☯️TL🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Penyerahan Buku Laporan Hasil Belajar Semester Gasal ☯️TL🫏-🫏-🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🐸Cuti Bersama sebelum Hari Raya Natal☯️TL🫏Libur Akhir Semester Gasal☯️L🐸Libur Umum (Hari Raya Natal)☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L",
-    2026
+    "",
+    "",
+    ""
   ],
   [
-    "XI.7",
     "",
     "",
     "",
@@ -2835,11 +2834,11 @@ var kalender = [
     "",
     "",
     "",
-    "-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Hari Pertama Masuk Sekolah☯️TL🐸Kegiatan MPLS☯️TL🫏Kegiatan MPLS☯️TL🫏Kegiatan MPLS☯️TL🫏Kegiatan MPLS☯️TL🫏Kegiatan MPLS☯️TL🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Mengikuti Upacara HUT Kemerdekaan RI☯️TL🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Libur Umum (Peringatan Maulid Nabi Muhammad SAW 1448 H)☯️L🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Mengikuti Upacara Hari Kesaktian Pancasila☯️TL🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🐸Mengikuti Upacara Peringatan Hari Sumpah Pemuda☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏-🫏-🫏-🫏-🫏Mengikuti Upacara Peringatan Hari Pahlawan☯️TL🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Penyerahan Buku Laporan Hasil Belajar Semester Gasal ☯️TL🫏-🫏-🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🐸Cuti Bersama sebelum Hari Raya Natal☯️TL🫏Libur Akhir Semester Gasal☯️L🐸Libur Umum (Hari Raya Natal)☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L",
-    2026
+    "",
+    "",
+    ""
   ],
   [
-    "XII.1",
     "",
     "",
     "",
@@ -3024,11 +3023,11 @@ var kalender = [
     "",
     "",
     "",
-    "-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Hari Pertama Masuk Sekolah☯️TL🐸Kegiatan MPLS☯️TL🫏Kegiatan MPLS☯️TL🫏Kegiatan MPLS☯️TL🫏Kegiatan MPLS☯️TL🫏Kegiatan MPLS☯️TL🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Mengikuti Upacara HUT Kemerdekaan RI☯️TL🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Libur Umum (Peringatan Maulid Nabi Muhammad SAW 1448 H)☯️L🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Mengikuti Upacara Hari Kesaktian Pancasila☯️TL🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🐸Mengikuti Upacara Peringatan Hari Sumpah Pemuda☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏-🫏-🫏-🫏-🫏Mengikuti Upacara Peringatan Hari Pahlawan☯️TL🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Penyerahan Buku Laporan Hasil Belajar Semester Gasal ☯️TL🫏-🫏-🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🐸Cuti Bersama sebelum Hari Raya Natal☯️TL🫏Libur Akhir Semester Gasal☯️L🐸Libur Umum (Hari Raya Natal)☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L",
-    2026
+    "",
+    "",
+    ""
   ],
   [
-    "XII.2",
     "",
     "",
     "",
@@ -3213,11 +3212,11 @@ var kalender = [
     "",
     "",
     "",
-    "-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Hari Pertama Masuk Sekolah☯️TL🐸Kegiatan MPLS☯️TL🫏Kegiatan MPLS☯️TL🫏Kegiatan MPLS☯️TL🫏Kegiatan MPLS☯️TL🫏Kegiatan MPLS☯️TL🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Mengikuti Upacara HUT Kemerdekaan RI☯️TL🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Libur Umum (Peringatan Maulid Nabi Muhammad SAW 1448 H)☯️L🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Mengikuti Upacara Hari Kesaktian Pancasila☯️TL🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🐸Mengikuti Upacara Peringatan Hari Sumpah Pemuda☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏-🫏-🫏-🫏-🫏Mengikuti Upacara Peringatan Hari Pahlawan☯️TL🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Penyerahan Buku Laporan Hasil Belajar Semester Gasal ☯️TL🫏-🫏-🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🐸Cuti Bersama sebelum Hari Raya Natal☯️TL🫏Libur Akhir Semester Gasal☯️L🐸Libur Umum (Hari Raya Natal)☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L",
-    2026
+    "",
+    "",
+    ""
   ],
   [
-    "XII.3",
     "",
     "",
     "",
@@ -3402,11 +3401,11 @@ var kalender = [
     "",
     "",
     "",
-    "-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Hari Pertama Masuk Sekolah☯️TL🐸Kegiatan MPLS☯️TL🫏Kegiatan MPLS☯️TL🫏Kegiatan MPLS☯️TL🫏Kegiatan MPLS☯️TL🫏Kegiatan MPLS☯️TL🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Mengikuti Upacara HUT Kemerdekaan RI☯️TL🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Libur Umum (Peringatan Maulid Nabi Muhammad SAW 1448 H)☯️L🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Mengikuti Upacara Hari Kesaktian Pancasila☯️TL🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🐸Mengikuti Upacara Peringatan Hari Sumpah Pemuda☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏-🫏-🫏-🫏-🫏Mengikuti Upacara Peringatan Hari Pahlawan☯️TL🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Penyerahan Buku Laporan Hasil Belajar Semester Gasal ☯️TL🫏-🫏-🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🐸Cuti Bersama sebelum Hari Raya Natal☯️TL🫏Libur Akhir Semester Gasal☯️L🐸Libur Umum (Hari Raya Natal)☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L",
-    2026
+    "",
+    "",
+    ""
   ],
   [
-    "XII.4",
     "",
     "",
     "",
@@ -3591,11 +3590,11 @@ var kalender = [
     "",
     "",
     "",
-    "-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Hari Pertama Masuk Sekolah☯️TL🐸Kegiatan MPLS☯️TL🫏Kegiatan MPLS☯️TL🫏Kegiatan MPLS☯️TL🫏Kegiatan MPLS☯️TL🫏Kegiatan MPLS☯️TL🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Mengikuti Upacara HUT Kemerdekaan RI☯️TL🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Libur Umum (Peringatan Maulid Nabi Muhammad SAW 1448 H)☯️L🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Mengikuti Upacara Hari Kesaktian Pancasila☯️TL🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🐸Mengikuti Upacara Peringatan Hari Sumpah Pemuda☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏-🫏-🫏-🫏-🫏Mengikuti Upacara Peringatan Hari Pahlawan☯️TL🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Penyerahan Buku Laporan Hasil Belajar Semester Gasal ☯️TL🫏-🫏-🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🐸Cuti Bersama sebelum Hari Raya Natal☯️TL🫏Libur Akhir Semester Gasal☯️L🐸Libur Umum (Hari Raya Natal)☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L",
-    2026
+    "",
+    "",
+    ""
   ],
   [
-    "XII.5",
     "",
     "",
     "",
@@ -3780,11 +3779,11 @@ var kalender = [
     "",
     "",
     "",
-    "-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Hari Pertama Masuk Sekolah☯️TL🐸Kegiatan MPLS☯️TL🫏Kegiatan MPLS☯️TL🫏Kegiatan MPLS☯️TL🫏Kegiatan MPLS☯️TL🫏Kegiatan MPLS☯️TL🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Mengikuti Upacara HUT Kemerdekaan RI☯️TL🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Libur Umum (Peringatan Maulid Nabi Muhammad SAW 1448 H)☯️L🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Mengikuti Upacara Hari Kesaktian Pancasila☯️TL🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🐸Mengikuti Upacara Peringatan Hari Sumpah Pemuda☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏-🫏-🫏-🫏-🫏Mengikuti Upacara Peringatan Hari Pahlawan☯️TL🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Penyerahan Buku Laporan Hasil Belajar Semester Gasal ☯️TL🫏-🫏-🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🐸Cuti Bersama sebelum Hari Raya Natal☯️TL🫏Libur Akhir Semester Gasal☯️L🐸Libur Umum (Hari Raya Natal)☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L",
-    2026
+    "",
+    "",
+    ""
   ],
   [
-    "XII.6",
     "",
     "",
     "",
@@ -3969,8 +3968,9 @@ var kalender = [
     "",
     "",
     "",
-    "-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Hari Pertama Masuk Sekolah☯️TL🐸Kegiatan MPLS☯️TL🫏Kegiatan MPLS☯️TL🫏Kegiatan MPLS☯️TL🫏Kegiatan MPLS☯️TL🫏Kegiatan MPLS☯️TL🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Mengikuti Upacara HUT Kemerdekaan RI☯️TL🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Libur Umum (Peringatan Maulid Nabi Muhammad SAW 1448 H)☯️L🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Mengikuti Upacara Hari Kesaktian Pancasila☯️TL🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🐸Mengikuti Upacara Peringatan Hari Sumpah Pemuda☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏Tes Kemampuan Akademik (TKA)☯️TL🫏-🫏-🫏-🫏-🫏Mengikuti Upacara Peringatan Hari Pahlawan☯️TL🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏-🫏Penyerahan Buku Laporan Hasil Belajar Semester Gasal ☯️TL🫏-🫏-🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🐸Cuti Bersama sebelum Hari Raya Natal☯️TL🫏Libur Akhir Semester Gasal☯️L🐸Libur Umum (Hari Raya Natal)☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L🫏Libur Akhir Semester Gasal☯️L",
-    2026
+    "",
+    "",
+    ""
   ],
   [
     "",
