@@ -1,4 +1,4 @@
 window.CONFIG = {
   
-  gasUrl: "https://script.google.com/macros/s/AKfycbyCJP2pymmqwQRFI6_-gY6r7hh8AgNWIsqIEanE2Ix6A36LekclA1Map6PtUg90-R3q/exec",   //pass    
+  gasUrl: "https://script.google.com/macros/s/AKfycbzrv6Fhq7bOlcu6_xZMLAtj_sefaQ8OEw6ESh41RZKt1gk5Z3Olw0xt4FjnCmIVZUxR0A/exec",   //pass    
 };
