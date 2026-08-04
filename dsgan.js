@@ -1860,7 +1860,7 @@ window.SISWA_DATA = {
     "3131437909": {
       "nisn": "3131437909",
       "password": "",
-      "rawSchedule": "08.10 - 09.30@Ilmu Pengetahuan Sosial@Kartini. S.Pd@*#09.30 - 11.20@Bahasa Indonesia@Hj. Bamunati. S.Pd@*#11.20 - 12.40@Ilmu Pengetahuan Alam@Fadillah Dwi Oktaviani. S.Pd. M.Pd@*######",
+      "rawSchedule": "08.10 - 09.30@Ilmu Pengetahuan Sosial@Kartini. S.Pd@/n#09.30 - 11.20@Bahasa Indonesia@Hj. Bamunati. S.Pd@*#11.20 - 12.40@Ilmu Pengetahuan Alam@Fadillah Dwi Oktaviani. S.Pd. M.Pd@*######",
       "rawAttendanceData": "Bahasa Indonesia@Hj. Bamunati. S.Pd@0@0@0@0@0@0#Bahasa Inggris@Megawati. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Sosial@Kartini. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Alam@Fadillah Dwi Oktaviani. S.Pd. M.Pd@0@0@0@0@0@0#Prakarya@Ariyani. S.Kom@0@0@0@0@0@0#Informatika@Herdiana. S.Pd@0@0@0@0@0@0#Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@0@0@0@0@0@0#Matematika@Itati. S.Pd@0@0@0@0@0@0#Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@0@0@0@0@0@0#Pendidikan Kewarganegaraan@Munaiya. S.Pd@0@0@0@0@0@0##############",
       "rawAssessmentData": "Bahasa Indonesia@Hj. Bamunati. S.Pd@0@0@0@0@0@0#Bahasa Inggris@Megawati. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Sosial@Kartini. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Alam@Fadillah Dwi Oktaviani. S.Pd. M.Pd@0@0@0@0@0@0#Prakarya@Ariyani. S.Kom@0@0@0@0@0@0#Informatika@Herdiana. S.Pd@0@0@0@0@0@0#Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@0@0@0@0@0@0#Matematika@Itati. S.Pd@0@0@0@0@0@0#Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@0@0@0@0@0@0#Pendidikan Kewarganegaraan@Munaiya. S.Pd@0@0@0@0@0@0##############",
       "rawNotesData": "Bahasa Indonesia@Hj. Bamunati. S.Pd@N#-%Bahasa Inggris@Megawati. S.Pd@N#-%Ilmu Pengetahuan Sosial@Kartini. S.Pd@N#-%Ilmu Pengetahuan Alam@Fadillah Dwi Oktaviani. S.Pd. M.Pd@N#-%Prakarya@Ariyani. S.Kom@N#-%Informatika@Herdiana. S.Pd@N#-%Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@N#-%Matematika@Itati. S.Pd@N#-%Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@N#-%Pendidikan Kewarganegaraan@Munaiya. S.Pd@N#-%%%%%%%%%%%%%%",
@@ -1871,7 +1871,7 @@ window.SISWA_DATA = {
       "abList": [
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,3131437909@MARBASO",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,3131437909@MARBASO",
-        "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,3131437909@MARBASO",
+        "Agu/04/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,/n@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,3131437909@MARBASO",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,3131437909@MARBASO",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,3131437909@MARBASO",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,3131437909@MARBASO",
@@ -1924,7 +1924,7 @@ window.SISWA_DATA = {
     "3131678614": {
       "nisn": "3131678614",
       "password": "",
-      "rawSchedule": "08.10 - 09.30@Ilmu Pengetahuan Sosial@Kartini. S.Pd@*#09.30 - 11.20@Bahasa Indonesia@Hj. Bamunati. S.Pd@*#11.20 - 12.40@Ilmu Pengetahuan Alam@Fadillah Dwi Oktaviani. S.Pd. M.Pd@*######",
+      "rawSchedule": "08.10 - 09.30@Ilmu Pengetahuan Sosial@Kartini. S.Pd@/n#09.30 - 11.20@Bahasa Indonesia@Hj. Bamunati. S.Pd@*#11.20 - 12.40@Ilmu Pengetahuan Alam@Fadillah Dwi Oktaviani. S.Pd. M.Pd@*######",
       "rawAttendanceData": "Bahasa Indonesia@Hj. Bamunati. S.Pd@0@0@0@0@0@0#Bahasa Inggris@Megawati. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Sosial@Kartini. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Alam@Fadillah Dwi Oktaviani. S.Pd. M.Pd@0@0@0@0@0@0#Prakarya@Ariyani. S.Kom@0@0@0@0@0@0#Informatika@Herdiana. S.Pd@0@0@0@0@0@0#Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@0@0@0@0@0@0#Matematika@Itati. S.Pd@0@0@0@0@0@0#Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@0@0@0@0@0@0#Pendidikan Kewarganegaraan@Munaiya. S.Pd@0@0@0@0@0@0##############",
       "rawAssessmentData": "Bahasa Indonesia@Hj. Bamunati. S.Pd@0@0@0@0@0@0#Bahasa Inggris@Megawati. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Sosial@Kartini. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Alam@Fadillah Dwi Oktaviani. S.Pd. M.Pd@0@0@0@0@0@0#Prakarya@Ariyani. S.Kom@0@0@0@0@0@0#Informatika@Herdiana. S.Pd@0@0@0@0@0@0#Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@0@0@0@0@0@0#Matematika@Itati. S.Pd@0@0@0@0@0@0#Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@0@0@0@0@0@0#Pendidikan Kewarganegaraan@Munaiya. S.Pd@0@0@0@0@0@0##############",
       "rawNotesData": "Bahasa Indonesia@Hj. Bamunati. S.Pd@N#-%Bahasa Inggris@Megawati. S.Pd@N#-%Ilmu Pengetahuan Sosial@Kartini. S.Pd@N#-%Ilmu Pengetahuan Alam@Fadillah Dwi Oktaviani. S.Pd. M.Pd@N#-%Prakarya@Ariyani. S.Kom@N#-%Informatika@Herdiana. S.Pd@N#-%Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@N#-%Matematika@Itati. S.Pd@N#-%Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@N#-%Pendidikan Kewarganegaraan@Munaiya. S.Pd@N#-%%%%%%%%%%%%%%",
@@ -1935,7 +1935,7 @@ window.SISWA_DATA = {
       "abList": [
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,3131678614@MUHAMMAD HAFIZ",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,3131678614@MUHAMMAD HAFIZ",
-        "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,3131678614@MUHAMMAD HAFIZ",
+        "Agu/04/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,/n@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,3131678614@MUHAMMAD HAFIZ",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,3131678614@MUHAMMAD HAFIZ",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,3131678614@MUHAMMAD HAFIZ",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,3131678614@MUHAMMAD HAFIZ",
@@ -2052,7 +2052,7 @@ window.SISWA_DATA = {
     "3131840499": {
       "nisn": "3131840499",
       "password": "",
-      "rawSchedule": "08.10 - 09.30@Ilmu Pengetahuan Sosial@Kartini. S.Pd@*#09.30 - 11.20@Bahasa Indonesia@Hj. Bamunati. S.Pd@*#11.20 - 12.40@Ilmu Pengetahuan Alam@Fadillah Dwi Oktaviani. S.Pd. M.Pd@*######",
+      "rawSchedule": "08.10 - 09.30@Ilmu Pengetahuan Sosial@Kartini. S.Pd@/n#09.30 - 11.20@Bahasa Indonesia@Hj. Bamunati. S.Pd@*#11.20 - 12.40@Ilmu Pengetahuan Alam@Fadillah Dwi Oktaviani. S.Pd. M.Pd@*######",
       "rawAttendanceData": "Bahasa Indonesia@Hj. Bamunati. S.Pd@0@0@0@0@0@0#Bahasa Inggris@Megawati. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Sosial@Kartini. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Alam@Fadillah Dwi Oktaviani. S.Pd. M.Pd@0@0@0@0@0@0#Prakarya@Ariyani. S.Kom@0@0@0@0@0@0#Informatika@Herdiana. S.Pd@0@0@0@0@0@0#Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@0@0@0@0@0@0#Matematika@Itati. S.Pd@0@0@0@0@0@0#Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@0@0@0@0@0@0#Pendidikan Kewarganegaraan@Munaiya. S.Pd@0@0@0@0@0@0##############",
       "rawAssessmentData": "Bahasa Indonesia@Hj. Bamunati. S.Pd@0@0@0@0@0@0#Bahasa Inggris@Megawati. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Sosial@Kartini. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Alam@Fadillah Dwi Oktaviani. S.Pd. M.Pd@0@0@0@0@0@0#Prakarya@Ariyani. S.Kom@0@0@0@0@0@0#Informatika@Herdiana. S.Pd@0@0@0@0@0@0#Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@0@0@0@0@0@0#Matematika@Itati. S.Pd@0@0@0@0@0@0#Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@0@0@0@0@0@0#Pendidikan Kewarganegaraan@Munaiya. S.Pd@0@0@0@0@0@0##############",
       "rawNotesData": "Bahasa Indonesia@Hj. Bamunati. S.Pd@N#-%Bahasa Inggris@Megawati. S.Pd@N#-%Ilmu Pengetahuan Sosial@Kartini. S.Pd@N#-%Ilmu Pengetahuan Alam@Fadillah Dwi Oktaviani. S.Pd. M.Pd@N#-%Prakarya@Ariyani. S.Kom@N#-%Informatika@Herdiana. S.Pd@N#-%Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@N#-%Matematika@Itati. S.Pd@N#-%Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@N#-%Pendidikan Kewarganegaraan@Munaiya. S.Pd@N#-%%%%%%%%%%%%%%",
@@ -2063,7 +2063,7 @@ window.SISWA_DATA = {
       "abList": [
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,3131840499@NABILA BATARI KHAERANI",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,3131840499@NABILA BATARI KHAERANI",
-        "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,3131840499@NABILA BATARI KHAERANI",
+        "Agu/04/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,/n@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,3131840499@NABILA BATARI KHAERANI",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,3131840499@NABILA BATARI KHAERANI",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,3131840499@NABILA BATARI KHAERANI",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,3131840499@NABILA BATARI KHAERANI",
@@ -2244,8 +2244,8 @@ window.SISWA_DATA = {
     "3132946382": {
       "nisn": "3132946382",
       "password": "",
-      "rawSchedule": "08.10 - 09.30@Ilmu Pengetahuan Sosial@Kartini. S.Pd@*#09.30 - 11.20@Bahasa Indonesia@Hj. Bamunati. S.Pd@*#11.20 - 12.40@Ilmu Pengetahuan Alam@Fadillah Dwi Oktaviani. S.Pd. M.Pd@*######",
-      "rawAttendanceData": "Bahasa Indonesia@Hj. Bamunati. S.Pd@0@0@0@0@0@0#Bahasa Inggris@Megawati. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Sosial@Kartini. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Alam@Fadillah Dwi Oktaviani. S.Pd. M.Pd@0@0@0@0@0@0#Prakarya@Ariyani. S.Kom@0@0@0@0@0@0#Informatika@Herdiana. S.Pd@0@0@0@0@0@0#Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@0@0@0@0@0@0#Matematika@Itati. S.Pd@0@0@0@0@0@0#Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@0@0@0@0@0@0#Pendidikan Kewarganegaraan@Munaiya. S.Pd@0@0@0@0@0@0##############",
+      "rawSchedule": "08.10 - 09.30@Ilmu Pengetahuan Sosial@Kartini. S.Pd@S#09.30 - 11.20@Bahasa Indonesia@Hj. Bamunati. S.Pd@*#11.20 - 12.40@Ilmu Pengetahuan Alam@Fadillah Dwi Oktaviani. S.Pd. M.Pd@*######",
+      "rawAttendanceData": "Bahasa Indonesia@Hj. Bamunati. S.Pd@0@0@0@0@0@0#Bahasa Inggris@Megawati. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Sosial@Kartini. S.Pd@0@0@0@1@0@0#Ilmu Pengetahuan Alam@Fadillah Dwi Oktaviani. S.Pd. M.Pd@0@0@0@0@0@0#Prakarya@Ariyani. S.Kom@0@0@0@0@0@0#Informatika@Herdiana. S.Pd@0@0@0@0@0@0#Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@0@0@0@0@0@0#Matematika@Itati. S.Pd@0@0@0@0@0@0#Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@0@0@0@0@0@0#Pendidikan Kewarganegaraan@Munaiya. S.Pd@0@0@0@0@0@0##############",
       "rawAssessmentData": "Bahasa Indonesia@Hj. Bamunati. S.Pd@0@0@0@0@0@0#Bahasa Inggris@Megawati. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Sosial@Kartini. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Alam@Fadillah Dwi Oktaviani. S.Pd. M.Pd@0@0@0@0@0@0#Prakarya@Ariyani. S.Kom@0@0@0@0@0@0#Informatika@Herdiana. S.Pd@0@0@0@0@0@0#Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@0@0@0@0@0@0#Matematika@Itati. S.Pd@0@0@0@0@0@0#Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@0@0@0@0@0@0#Pendidikan Kewarganegaraan@Munaiya. S.Pd@0@0@0@0@0@0##############",
       "rawNotesData": "Bahasa Indonesia@Hj. Bamunati. S.Pd@N#-%Bahasa Inggris@Megawati. S.Pd@N#-%Ilmu Pengetahuan Sosial@Kartini. S.Pd@N#-%Ilmu Pengetahuan Alam@Fadillah Dwi Oktaviani. S.Pd. M.Pd@N#-%Prakarya@Ariyani. S.Kom@N#-%Informatika@Herdiana. S.Pd@N#-%Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@N#-%Matematika@Itati. S.Pd@N#-%Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@N#-%Pendidikan Kewarganegaraan@Munaiya. S.Pd@N#-%%%%%%%%%%%%%%",
       "nilaiAmbang": "75",
@@ -2255,7 +2255,7 @@ window.SISWA_DATA = {
       "abList": [
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,3132946382@NURFADILLA",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,3132946382@NURFADILLA",
-        "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,3132946382@NURFADILLA",
+        "Agu/04/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,S@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,3132946382@NURFADILLA",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,3132946382@NURFADILLA",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,3132946382@NURFADILLA",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,3132946382@NURFADILLA",
@@ -2628,7 +2628,7 @@ window.SISWA_DATA = {
     "3134274146": {
       "nisn": "3134274146",
       "password": "",
-      "rawSchedule": "08.10 - 09.30@Ilmu Pengetahuan Sosial@Kartini. S.Pd@*#09.30 - 11.20@Bahasa Indonesia@Hj. Bamunati. S.Pd@*#11.20 - 12.40@Ilmu Pengetahuan Alam@Fadillah Dwi Oktaviani. S.Pd. M.Pd@*######",
+      "rawSchedule": "08.10 - 09.30@Ilmu Pengetahuan Sosial@Kartini. S.Pd@/n#09.30 - 11.20@Bahasa Indonesia@Hj. Bamunati. S.Pd@*#11.20 - 12.40@Ilmu Pengetahuan Alam@Fadillah Dwi Oktaviani. S.Pd. M.Pd@*######",
       "rawAttendanceData": "Bahasa Indonesia@Hj. Bamunati. S.Pd@0@0@0@0@0@0#Bahasa Inggris@Megawati. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Sosial@Kartini. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Alam@Fadillah Dwi Oktaviani. S.Pd. M.Pd@0@0@0@0@0@0#Prakarya@Ariyani. S.Kom@0@0@0@0@0@0#Informatika@Herdiana. S.Pd@0@0@0@0@0@0#Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@0@0@0@0@0@0#Matematika@Itati. S.Pd@0@0@0@0@0@0#Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@0@0@0@0@0@0#Pendidikan Kewarganegaraan@Munaiya. S.Pd@0@0@0@0@0@0##############",
       "rawAssessmentData": "Bahasa Indonesia@Hj. Bamunati. S.Pd@0@0@0@0@0@0#Bahasa Inggris@Megawati. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Sosial@Kartini. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Alam@Fadillah Dwi Oktaviani. S.Pd. M.Pd@0@0@0@0@0@0#Prakarya@Ariyani. S.Kom@0@0@0@0@0@0#Informatika@Herdiana. S.Pd@0@0@0@0@0@0#Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@0@0@0@0@0@0#Matematika@Itati. S.Pd@0@0@0@0@0@0#Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@0@0@0@0@0@0#Pendidikan Kewarganegaraan@Munaiya. S.Pd@0@0@0@0@0@0##############",
       "rawNotesData": "Bahasa Indonesia@Hj. Bamunati. S.Pd@N#-%Bahasa Inggris@Megawati. S.Pd@N#-%Ilmu Pengetahuan Sosial@Kartini. S.Pd@N#-%Ilmu Pengetahuan Alam@Fadillah Dwi Oktaviani. S.Pd. M.Pd@N#-%Prakarya@Ariyani. S.Kom@N#-%Informatika@Herdiana. S.Pd@N#-%Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@N#-%Matematika@Itati. S.Pd@N#-%Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@N#-%Pendidikan Kewarganegaraan@Munaiya. S.Pd@N#-%%%%%%%%%%%%%%",
@@ -2639,7 +2639,7 @@ window.SISWA_DATA = {
       "abList": [
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,3134274146@NURUL ATHIFAH",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,3134274146@NURUL ATHIFAH",
-        "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,3134274146@NURUL ATHIFAH",
+        "Agu/04/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,/n@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,3134274146@NURUL ATHIFAH",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,3134274146@NURUL ATHIFAH",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,3134274146@NURUL ATHIFAH",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,3134274146@NURUL ATHIFAH",
@@ -3204,7 +3204,7 @@ window.SISWA_DATA = {
     "3137017922": {
       "nisn": "3137017922",
       "password": "",
-      "rawSchedule": "08.10 - 09.30@Ilmu Pengetahuan Sosial@Kartini. S.Pd@*#09.30 - 11.20@Bahasa Indonesia@Hj. Bamunati. S.Pd@*#11.20 - 12.40@Ilmu Pengetahuan Alam@Fadillah Dwi Oktaviani. S.Pd. M.Pd@*######",
+      "rawSchedule": "08.10 - 09.30@Ilmu Pengetahuan Sosial@Kartini. S.Pd@/n#09.30 - 11.20@Bahasa Indonesia@Hj. Bamunati. S.Pd@*#11.20 - 12.40@Ilmu Pengetahuan Alam@Fadillah Dwi Oktaviani. S.Pd. M.Pd@*######",
       "rawAttendanceData": "Bahasa Indonesia@Hj. Bamunati. S.Pd@0@0@0@0@0@0#Bahasa Inggris@Megawati. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Sosial@Kartini. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Alam@Fadillah Dwi Oktaviani. S.Pd. M.Pd@0@0@0@0@0@0#Prakarya@Ariyani. S.Kom@0@0@0@0@0@0#Informatika@Herdiana. S.Pd@0@0@0@0@0@0#Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@0@0@0@0@0@0#Matematika@Itati. S.Pd@0@0@0@0@0@0#Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@0@0@0@0@0@0#Pendidikan Kewarganegaraan@Munaiya. S.Pd@0@0@0@0@0@0##############",
       "rawAssessmentData": "Bahasa Indonesia@Hj. Bamunati. S.Pd@0@0@0@0@0@0#Bahasa Inggris@Megawati. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Sosial@Kartini. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Alam@Fadillah Dwi Oktaviani. S.Pd. M.Pd@0@0@0@0@0@0#Prakarya@Ariyani. S.Kom@0@0@0@0@0@0#Informatika@Herdiana. S.Pd@0@0@0@0@0@0#Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@0@0@0@0@0@0#Matematika@Itati. S.Pd@0@0@0@0@0@0#Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@0@0@0@0@0@0#Pendidikan Kewarganegaraan@Munaiya. S.Pd@0@0@0@0@0@0##############",
       "rawNotesData": "Bahasa Indonesia@Hj. Bamunati. S.Pd@N#-%Bahasa Inggris@Megawati. S.Pd@N#-%Ilmu Pengetahuan Sosial@Kartini. S.Pd@N#-%Ilmu Pengetahuan Alam@Fadillah Dwi Oktaviani. S.Pd. M.Pd@N#-%Prakarya@Ariyani. S.Kom@N#-%Informatika@Herdiana. S.Pd@N#-%Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@N#-%Matematika@Itati. S.Pd@N#-%Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@N#-%Pendidikan Kewarganegaraan@Munaiya. S.Pd@N#-%%%%%%%%%%%%%%",
@@ -3215,7 +3215,7 @@ window.SISWA_DATA = {
       "abList": [
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,3137017922@FARIZ NAUFAL ARDANA",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,3137017922@FARIZ NAUFAL ARDANA",
-        "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,3137017922@FARIZ NAUFAL ARDANA",
+        "Agu/04/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,/n@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,3137017922@FARIZ NAUFAL ARDANA",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,3137017922@FARIZ NAUFAL ARDANA",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,3137017922@FARIZ NAUFAL ARDANA",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,3137017922@FARIZ NAUFAL ARDANA",
@@ -3716,7 +3716,7 @@ window.SISWA_DATA = {
     "3140513234": {
       "nisn": "3140513234",
       "password": "",
-      "rawSchedule": "08.10 - 09.30@Ilmu Pengetahuan Sosial@Kartini. S.Pd@*#09.30 - 11.20@Bahasa Indonesia@Hj. Bamunati. S.Pd@*#11.20 - 12.40@Ilmu Pengetahuan Alam@Fadillah Dwi Oktaviani. S.Pd. M.Pd@*######",
+      "rawSchedule": "08.10 - 09.30@Ilmu Pengetahuan Sosial@Kartini. S.Pd@/n#09.30 - 11.20@Bahasa Indonesia@Hj. Bamunati. S.Pd@*#11.20 - 12.40@Ilmu Pengetahuan Alam@Fadillah Dwi Oktaviani. S.Pd. M.Pd@*######",
       "rawAttendanceData": "Bahasa Indonesia@Hj. Bamunati. S.Pd@0@0@0@0@0@0#Bahasa Inggris@Megawati. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Sosial@Kartini. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Alam@Fadillah Dwi Oktaviani. S.Pd. M.Pd@0@0@0@0@0@0#Prakarya@Ariyani. S.Kom@0@0@0@0@0@0#Informatika@Herdiana. S.Pd@0@0@0@0@0@0#Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@0@0@0@0@0@0#Matematika@Itati. S.Pd@0@0@0@0@0@0#Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@0@0@0@0@0@0#Pendidikan Kewarganegaraan@Munaiya. S.Pd@0@0@0@0@0@0##############",
       "rawAssessmentData": "Bahasa Indonesia@Hj. Bamunati. S.Pd@0@0@0@0@0@0#Bahasa Inggris@Megawati. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Sosial@Kartini. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Alam@Fadillah Dwi Oktaviani. S.Pd. M.Pd@0@0@0@0@0@0#Prakarya@Ariyani. S.Kom@0@0@0@0@0@0#Informatika@Herdiana. S.Pd@0@0@0@0@0@0#Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@0@0@0@0@0@0#Matematika@Itati. S.Pd@0@0@0@0@0@0#Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@0@0@0@0@0@0#Pendidikan Kewarganegaraan@Munaiya. S.Pd@0@0@0@0@0@0##############",
       "rawNotesData": "Bahasa Indonesia@Hj. Bamunati. S.Pd@N#-%Bahasa Inggris@Megawati. S.Pd@N#-%Ilmu Pengetahuan Sosial@Kartini. S.Pd@N#-%Ilmu Pengetahuan Alam@Fadillah Dwi Oktaviani. S.Pd. M.Pd@N#-%Prakarya@Ariyani. S.Kom@N#-%Informatika@Herdiana. S.Pd@N#-%Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@N#-%Matematika@Itati. S.Pd@N#-%Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@N#-%Pendidikan Kewarganegaraan@Munaiya. S.Pd@N#-%%%%%%%%%%%%%%",
@@ -3727,7 +3727,7 @@ window.SISWA_DATA = {
       "abList": [
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,3140513234@FAHRI ZAFRAN",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,3140513234@FAHRI ZAFRAN",
-        "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,3140513234@FAHRI ZAFRAN",
+        "Agu/04/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,/n@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,3140513234@FAHRI ZAFRAN",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,3140513234@FAHRI ZAFRAN",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,3140513234@FAHRI ZAFRAN",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,3140513234@FAHRI ZAFRAN",
@@ -3908,7 +3908,7 @@ window.SISWA_DATA = {
     "3144861358": {
       "nisn": "3144861358",
       "password": "",
-      "rawSchedule": "08.10 - 09.30@Ilmu Pengetahuan Sosial@Kartini. S.Pd@*#09.30 - 11.20@Bahasa Indonesia@Hj. Bamunati. S.Pd@*#11.20 - 12.40@Ilmu Pengetahuan Alam@Fadillah Dwi Oktaviani. S.Pd. M.Pd@*######",
+      "rawSchedule": "08.10 - 09.30@Ilmu Pengetahuan Sosial@Kartini. S.Pd@/n#09.30 - 11.20@Bahasa Indonesia@Hj. Bamunati. S.Pd@*#11.20 - 12.40@Ilmu Pengetahuan Alam@Fadillah Dwi Oktaviani. S.Pd. M.Pd@*######",
       "rawAttendanceData": "Bahasa Indonesia@Hj. Bamunati. S.Pd@0@0@0@0@0@0#Bahasa Inggris@Megawati. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Sosial@Kartini. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Alam@Fadillah Dwi Oktaviani. S.Pd. M.Pd@0@0@0@0@0@0#Prakarya@Ariyani. S.Kom@0@0@0@0@0@0#Informatika@Herdiana. S.Pd@0@0@0@0@0@0#Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@0@0@0@0@0@0#Matematika@Itati. S.Pd@0@0@0@0@0@0#Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@0@0@0@0@0@0#Pendidikan Kewarganegaraan@Munaiya. S.Pd@0@0@0@0@0@0##############",
       "rawAssessmentData": "Bahasa Indonesia@Hj. Bamunati. S.Pd@0@0@0@0@0@0#Bahasa Inggris@Megawati. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Sosial@Kartini. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Alam@Fadillah Dwi Oktaviani. S.Pd. M.Pd@0@0@0@0@0@0#Prakarya@Ariyani. S.Kom@0@0@0@0@0@0#Informatika@Herdiana. S.Pd@0@0@0@0@0@0#Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@0@0@0@0@0@0#Matematika@Itati. S.Pd@0@0@0@0@0@0#Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@0@0@0@0@0@0#Pendidikan Kewarganegaraan@Munaiya. S.Pd@0@0@0@0@0@0##############",
       "rawNotesData": "Bahasa Indonesia@Hj. Bamunati. S.Pd@N#-%Bahasa Inggris@Megawati. S.Pd@N#-%Ilmu Pengetahuan Sosial@Kartini. S.Pd@N#-%Ilmu Pengetahuan Alam@Fadillah Dwi Oktaviani. S.Pd. M.Pd@N#-%Prakarya@Ariyani. S.Kom@N#-%Informatika@Herdiana. S.Pd@N#-%Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@N#-%Matematika@Itati. S.Pd@N#-%Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@N#-%Pendidikan Kewarganegaraan@Munaiya. S.Pd@N#-%%%%%%%%%%%%%%",
@@ -3919,7 +3919,7 @@ window.SISWA_DATA = {
       "abList": [
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,3144861358@REHAN",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,3144861358@REHAN",
-        "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,3144861358@REHAN",
+        "Agu/04/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,/n@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,3144861358@REHAN",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,3144861358@REHAN",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,3144861358@REHAN",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,3144861358@REHAN",
@@ -4100,7 +4100,7 @@ window.SISWA_DATA = {
     "3146936625": {
       "nisn": "3146936625",
       "password": "",
-      "rawSchedule": "08.10 - 09.30@Ilmu Pengetahuan Sosial@Kartini. S.Pd@*#09.30 - 11.20@Bahasa Indonesia@Hj. Bamunati. S.Pd@*#11.20 - 12.40@Ilmu Pengetahuan Alam@Fadillah Dwi Oktaviani. S.Pd. M.Pd@*######",
+      "rawSchedule": "08.10 - 09.30@Ilmu Pengetahuan Sosial@Kartini. S.Pd@/n#09.30 - 11.20@Bahasa Indonesia@Hj. Bamunati. S.Pd@*#11.20 - 12.40@Ilmu Pengetahuan Alam@Fadillah Dwi Oktaviani. S.Pd. M.Pd@*######",
       "rawAttendanceData": "Bahasa Indonesia@Hj. Bamunati. S.Pd@0@0@0@0@0@0#Bahasa Inggris@Megawati. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Sosial@Kartini. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Alam@Fadillah Dwi Oktaviani. S.Pd. M.Pd@0@0@0@0@0@0#Prakarya@Ariyani. S.Kom@0@0@0@0@0@0#Informatika@Herdiana. S.Pd@0@0@0@0@0@0#Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@0@0@0@0@0@0#Matematika@Itati. S.Pd@0@0@0@0@0@0#Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@0@0@0@0@0@0#Pendidikan Kewarganegaraan@Munaiya. S.Pd@0@0@0@0@0@0##############",
       "rawAssessmentData": "Bahasa Indonesia@Hj. Bamunati. S.Pd@0@0@0@0@0@0#Bahasa Inggris@Megawati. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Sosial@Kartini. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Alam@Fadillah Dwi Oktaviani. S.Pd. M.Pd@0@0@0@0@0@0#Prakarya@Ariyani. S.Kom@0@0@0@0@0@0#Informatika@Herdiana. S.Pd@0@0@0@0@0@0#Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@0@0@0@0@0@0#Matematika@Itati. S.Pd@0@0@0@0@0@0#Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@0@0@0@0@0@0#Pendidikan Kewarganegaraan@Munaiya. S.Pd@0@0@0@0@0@0##############",
       "rawNotesData": "Bahasa Indonesia@Hj. Bamunati. S.Pd@N#-%Bahasa Inggris@Megawati. S.Pd@N#-%Ilmu Pengetahuan Sosial@Kartini. S.Pd@N#-%Ilmu Pengetahuan Alam@Fadillah Dwi Oktaviani. S.Pd. M.Pd@N#-%Prakarya@Ariyani. S.Kom@N#-%Informatika@Herdiana. S.Pd@N#-%Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@N#-%Matematika@Itati. S.Pd@N#-%Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@N#-%Pendidikan Kewarganegaraan@Munaiya. S.Pd@N#-%%%%%%%%%%%%%%",
@@ -4111,7 +4111,7 @@ window.SISWA_DATA = {
       "abList": [
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,3146936625@NUR HALIZA RUSTAM",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,3146936625@NUR HALIZA RUSTAM",
-        "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,3146936625@NUR HALIZA RUSTAM",
+        "Agu/04/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,/n@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,3146936625@NUR HALIZA RUSTAM",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,3146936625@NUR HALIZA RUSTAM",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,3146936625@NUR HALIZA RUSTAM",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,3146936625@NUR HALIZA RUSTAM",
@@ -4228,7 +4228,7 @@ window.SISWA_DATA = {
     "3147790110": {
       "nisn": "3147790110",
       "password": "",
-      "rawSchedule": "08.10 - 09.30@Ilmu Pengetahuan Sosial@Kartini. S.Pd@*#09.30 - 11.20@Bahasa Indonesia@Hj. Bamunati. S.Pd@*#11.20 - 12.40@Ilmu Pengetahuan Alam@Fadillah Dwi Oktaviani. S.Pd. M.Pd@*######",
+      "rawSchedule": "08.10 - 09.30@Ilmu Pengetahuan Sosial@Kartini. S.Pd@/n#09.30 - 11.20@Bahasa Indonesia@Hj. Bamunati. S.Pd@*#11.20 - 12.40@Ilmu Pengetahuan Alam@Fadillah Dwi Oktaviani. S.Pd. M.Pd@*######",
       "rawAttendanceData": "Bahasa Indonesia@Hj. Bamunati. S.Pd@0@0@0@0@0@0#Bahasa Inggris@Megawati. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Sosial@Kartini. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Alam@Fadillah Dwi Oktaviani. S.Pd. M.Pd@0@0@0@0@0@0#Prakarya@Ariyani. S.Kom@0@0@0@0@0@0#Informatika@Herdiana. S.Pd@0@0@0@0@0@0#Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@0@0@0@0@0@0#Matematika@Itati. S.Pd@0@0@0@0@0@0#Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@0@0@0@0@0@0#Pendidikan Kewarganegaraan@Munaiya. S.Pd@0@0@0@0@0@0##############",
       "rawAssessmentData": "Bahasa Indonesia@Hj. Bamunati. S.Pd@0@0@0@0@0@0#Bahasa Inggris@Megawati. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Sosial@Kartini. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Alam@Fadillah Dwi Oktaviani. S.Pd. M.Pd@0@0@0@0@0@0#Prakarya@Ariyani. S.Kom@0@0@0@0@0@0#Informatika@Herdiana. S.Pd@0@0@0@0@0@0#Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@0@0@0@0@0@0#Matematika@Itati. S.Pd@0@0@0@0@0@0#Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@0@0@0@0@0@0#Pendidikan Kewarganegaraan@Munaiya. S.Pd@0@0@0@0@0@0##############",
       "rawNotesData": "Bahasa Indonesia@Hj. Bamunati. S.Pd@N#-%Bahasa Inggris@Megawati. S.Pd@N#-%Ilmu Pengetahuan Sosial@Kartini. S.Pd@N#-%Ilmu Pengetahuan Alam@Fadillah Dwi Oktaviani. S.Pd. M.Pd@N#-%Prakarya@Ariyani. S.Kom@N#-%Informatika@Herdiana. S.Pd@N#-%Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@N#-%Matematika@Itati. S.Pd@N#-%Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@N#-%Pendidikan Kewarganegaraan@Munaiya. S.Pd@N#-%%%%%%%%%%%%%%",
@@ -4239,7 +4239,7 @@ window.SISWA_DATA = {
       "abList": [
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,3147790110@DIAS ABHY AL GIOFAH",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,3147790110@DIAS ABHY AL GIOFAH",
-        "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,3147790110@DIAS ABHY AL GIOFAH",
+        "Agu/04/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,/n@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,3147790110@DIAS ABHY AL GIOFAH",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,3147790110@DIAS ABHY AL GIOFAH",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,3147790110@DIAS ABHY AL GIOFAH",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,3147790110@DIAS ABHY AL GIOFAH",
@@ -4356,7 +4356,7 @@ window.SISWA_DATA = {
     "3148745897": {
       "nisn": "3148745897",
       "password": "",
-      "rawSchedule": "08.10 - 09.30@Ilmu Pengetahuan Sosial@Kartini. S.Pd@*#09.30 - 11.20@Bahasa Indonesia@Hj. Bamunati. S.Pd@*#11.20 - 12.40@Ilmu Pengetahuan Alam@Fadillah Dwi Oktaviani. S.Pd. M.Pd@*######",
+      "rawSchedule": "08.10 - 09.30@Ilmu Pengetahuan Sosial@Kartini. S.Pd@/n#09.30 - 11.20@Bahasa Indonesia@Hj. Bamunati. S.Pd@*#11.20 - 12.40@Ilmu Pengetahuan Alam@Fadillah Dwi Oktaviani. S.Pd. M.Pd@*######",
       "rawAttendanceData": "Bahasa Indonesia@Hj. Bamunati. S.Pd@0@0@0@0@0@0#Bahasa Inggris@Megawati. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Sosial@Kartini. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Alam@Fadillah Dwi Oktaviani. S.Pd. M.Pd@0@0@0@0@0@0#Prakarya@Ariyani. S.Kom@0@0@0@0@0@0#Informatika@Herdiana. S.Pd@0@0@0@0@0@0#Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@0@0@0@0@0@0#Matematika@Itati. S.Pd@0@0@0@0@0@0#Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@0@0@0@0@0@0#Pendidikan Kewarganegaraan@Munaiya. S.Pd@0@0@0@0@0@0##############",
       "rawAssessmentData": "Bahasa Indonesia@Hj. Bamunati. S.Pd@0@0@0@0@0@0#Bahasa Inggris@Megawati. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Sosial@Kartini. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Alam@Fadillah Dwi Oktaviani. S.Pd. M.Pd@0@0@0@0@0@0#Prakarya@Ariyani. S.Kom@0@0@0@0@0@0#Informatika@Herdiana. S.Pd@0@0@0@0@0@0#Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@0@0@0@0@0@0#Matematika@Itati. S.Pd@0@0@0@0@0@0#Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@0@0@0@0@0@0#Pendidikan Kewarganegaraan@Munaiya. S.Pd@0@0@0@0@0@0##############",
       "rawNotesData": "Bahasa Indonesia@Hj. Bamunati. S.Pd@N#-%Bahasa Inggris@Megawati. S.Pd@N#-%Ilmu Pengetahuan Sosial@Kartini. S.Pd@N#-%Ilmu Pengetahuan Alam@Fadillah Dwi Oktaviani. S.Pd. M.Pd@N#-%Prakarya@Ariyani. S.Kom@N#-%Informatika@Herdiana. S.Pd@N#-%Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@N#-%Matematika@Itati. S.Pd@N#-%Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@N#-%Pendidikan Kewarganegaraan@Munaiya. S.Pd@N#-%%%%%%%%%%%%%%",
@@ -4367,7 +4367,7 @@ window.SISWA_DATA = {
       "abList": [
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,3148745897@SITTI FATINA KAMILA",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,3148745897@SITTI FATINA KAMILA",
-        "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,3148745897@SITTI FATINA KAMILA",
+        "Agu/04/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,/n@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,3148745897@SITTI FATINA KAMILA",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,3148745897@SITTI FATINA KAMILA",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,3148745897@SITTI FATINA KAMILA",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,3148745897@SITTI FATINA KAMILA",
@@ -12612,7 +12612,7 @@ window.SISWA_DATA = {
     "0149987122": {
       "nisn": "0149987122",
       "password": "",
-      "rawSchedule": "08.10 - 09.30@Ilmu Pengetahuan Sosial@Kartini. S.Pd@*#09.30 - 11.20@Bahasa Indonesia@Hj. Bamunati. S.Pd@*#11.20 - 12.40@Ilmu Pengetahuan Alam@Fadillah Dwi Oktaviani. S.Pd. M.Pd@*######",
+      "rawSchedule": "08.10 - 09.30@Ilmu Pengetahuan Sosial@Kartini. S.Pd@/n#09.30 - 11.20@Bahasa Indonesia@Hj. Bamunati. S.Pd@*#11.20 - 12.40@Ilmu Pengetahuan Alam@Fadillah Dwi Oktaviani. S.Pd. M.Pd@*######",
       "rawAttendanceData": "Bahasa Indonesia@Hj. Bamunati. S.Pd@0@0@0@0@0@0#Bahasa Inggris@Megawati. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Sosial@Kartini. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Alam@Fadillah Dwi Oktaviani. S.Pd. M.Pd@0@0@0@0@0@0#Prakarya@Ariyani. S.Kom@0@0@0@0@0@0#Informatika@Herdiana. S.Pd@0@0@0@0@0@0#Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@0@0@0@0@0@0#Matematika@Itati. S.Pd@0@0@0@0@0@0#Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@0@0@0@0@0@0#Pendidikan Kewarganegaraan@Munaiya. S.Pd@0@0@0@0@0@0##############",
       "rawAssessmentData": "Bahasa Indonesia@Hj. Bamunati. S.Pd@0@0@0@0@0@0#Bahasa Inggris@Megawati. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Sosial@Kartini. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Alam@Fadillah Dwi Oktaviani. S.Pd. M.Pd@0@0@0@0@0@0#Prakarya@Ariyani. S.Kom@0@0@0@0@0@0#Informatika@Herdiana. S.Pd@0@0@0@0@0@0#Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@0@0@0@0@0@0#Matematika@Itati. S.Pd@0@0@0@0@0@0#Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@0@0@0@0@0@0#Pendidikan Kewarganegaraan@Munaiya. S.Pd@0@0@0@0@0@0##############",
       "rawNotesData": "Bahasa Indonesia@Hj. Bamunati. S.Pd@N#-%Bahasa Inggris@Megawati. S.Pd@N#-%Ilmu Pengetahuan Sosial@Kartini. S.Pd@N#-%Ilmu Pengetahuan Alam@Fadillah Dwi Oktaviani. S.Pd. M.Pd@N#-%Prakarya@Ariyani. S.Kom@N#-%Informatika@Herdiana. S.Pd@N#-%Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@N#-%Matematika@Itati. S.Pd@N#-%Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@N#-%Pendidikan Kewarganegaraan@Munaiya. S.Pd@N#-%%%%%%%%%%%%%%",
@@ -12623,7 +12623,7 @@ window.SISWA_DATA = {
       "abList": [
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0149987122@ADIBA AZZAHRA UMAR",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0149987122@ADIBA AZZAHRA UMAR",
-        "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0149987122@ADIBA AZZAHRA UMAR",
+        "Agu/04/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,/n@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0149987122@ADIBA AZZAHRA UMAR",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0149987122@ADIBA AZZAHRA UMAR",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0149987122@ADIBA AZZAHRA UMAR",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0149987122@ADIBA AZZAHRA UMAR",
@@ -12676,7 +12676,7 @@ window.SISWA_DATA = {
     "0144412102": {
       "nisn": "0144412102",
       "password": "",
-      "rawSchedule": "08.10 - 09.30@Ilmu Pengetahuan Sosial@Kartini. S.Pd@*#09.30 - 11.20@Bahasa Indonesia@Hj. Bamunati. S.Pd@*#11.20 - 12.40@Ilmu Pengetahuan Alam@Fadillah Dwi Oktaviani. S.Pd. M.Pd@*######",
+      "rawSchedule": "08.10 - 09.30@Ilmu Pengetahuan Sosial@Kartini. S.Pd@/n#09.30 - 11.20@Bahasa Indonesia@Hj. Bamunati. S.Pd@*#11.20 - 12.40@Ilmu Pengetahuan Alam@Fadillah Dwi Oktaviani. S.Pd. M.Pd@*######",
       "rawAttendanceData": "Bahasa Indonesia@Hj. Bamunati. S.Pd@0@0@0@0@0@0#Bahasa Inggris@Megawati. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Sosial@Kartini. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Alam@Fadillah Dwi Oktaviani. S.Pd. M.Pd@0@0@0@0@0@0#Prakarya@Ariyani. S.Kom@0@0@0@0@0@0#Informatika@Herdiana. S.Pd@0@0@0@0@0@0#Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@0@0@0@0@0@0#Matematika@Itati. S.Pd@0@0@0@0@0@0#Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@0@0@0@0@0@0#Pendidikan Kewarganegaraan@Munaiya. S.Pd@0@0@0@0@0@0##############",
       "rawAssessmentData": "Bahasa Indonesia@Hj. Bamunati. S.Pd@0@0@0@0@0@0#Bahasa Inggris@Megawati. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Sosial@Kartini. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Alam@Fadillah Dwi Oktaviani. S.Pd. M.Pd@0@0@0@0@0@0#Prakarya@Ariyani. S.Kom@0@0@0@0@0@0#Informatika@Herdiana. S.Pd@0@0@0@0@0@0#Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@0@0@0@0@0@0#Matematika@Itati. S.Pd@0@0@0@0@0@0#Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@0@0@0@0@0@0#Pendidikan Kewarganegaraan@Munaiya. S.Pd@0@0@0@0@0@0##############",
       "rawNotesData": "Bahasa Indonesia@Hj. Bamunati. S.Pd@N#-%Bahasa Inggris@Megawati. S.Pd@N#-%Ilmu Pengetahuan Sosial@Kartini. S.Pd@N#-%Ilmu Pengetahuan Alam@Fadillah Dwi Oktaviani. S.Pd. M.Pd@N#-%Prakarya@Ariyani. S.Kom@N#-%Informatika@Herdiana. S.Pd@N#-%Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@N#-%Matematika@Itati. S.Pd@N#-%Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@N#-%Pendidikan Kewarganegaraan@Munaiya. S.Pd@N#-%%%%%%%%%%%%%%",
@@ -12687,7 +12687,7 @@ window.SISWA_DATA = {
       "abList": [
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0144412102@AKRAM ABDILLAH",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0144412102@AKRAM ABDILLAH",
-        "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0144412102@AKRAM ABDILLAH",
+        "Agu/04/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,/n@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0144412102@AKRAM ABDILLAH",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0144412102@AKRAM ABDILLAH",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0144412102@AKRAM ABDILLAH",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0144412102@AKRAM ABDILLAH",
@@ -12740,7 +12740,7 @@ window.SISWA_DATA = {
     "0134905676": {
       "nisn": "0134905676",
       "password": "",
-      "rawSchedule": "08.10 - 09.30@Ilmu Pengetahuan Sosial@Kartini. S.Pd@*#09.30 - 11.20@Bahasa Indonesia@Hj. Bamunati. S.Pd@*#11.20 - 12.40@Ilmu Pengetahuan Alam@Fadillah Dwi Oktaviani. S.Pd. M.Pd@*######",
+      "rawSchedule": "08.10 - 09.30@Ilmu Pengetahuan Sosial@Kartini. S.Pd@/n#09.30 - 11.20@Bahasa Indonesia@Hj. Bamunati. S.Pd@*#11.20 - 12.40@Ilmu Pengetahuan Alam@Fadillah Dwi Oktaviani. S.Pd. M.Pd@*######",
       "rawAttendanceData": "Bahasa Indonesia@Hj. Bamunati. S.Pd@0@0@0@0@0@0#Bahasa Inggris@Megawati. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Sosial@Kartini. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Alam@Fadillah Dwi Oktaviani. S.Pd. M.Pd@0@0@0@0@0@0#Prakarya@Ariyani. S.Kom@0@0@0@0@0@0#Informatika@Herdiana. S.Pd@0@0@0@0@0@0#Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@0@0@0@0@0@0#Matematika@Itati. S.Pd@0@0@0@0@0@0#Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@0@0@0@0@0@0#Pendidikan Kewarganegaraan@Munaiya. S.Pd@0@0@0@0@0@0##############",
       "rawAssessmentData": "Bahasa Indonesia@Hj. Bamunati. S.Pd@0@0@0@0@0@0#Bahasa Inggris@Megawati. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Sosial@Kartini. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Alam@Fadillah Dwi Oktaviani. S.Pd. M.Pd@0@0@0@0@0@0#Prakarya@Ariyani. S.Kom@0@0@0@0@0@0#Informatika@Herdiana. S.Pd@0@0@0@0@0@0#Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@0@0@0@0@0@0#Matematika@Itati. S.Pd@0@0@0@0@0@0#Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@0@0@0@0@0@0#Pendidikan Kewarganegaraan@Munaiya. S.Pd@0@0@0@0@0@0##############",
       "rawNotesData": "Bahasa Indonesia@Hj. Bamunati. S.Pd@N#-%Bahasa Inggris@Megawati. S.Pd@N#-%Ilmu Pengetahuan Sosial@Kartini. S.Pd@N#-%Ilmu Pengetahuan Alam@Fadillah Dwi Oktaviani. S.Pd. M.Pd@N#-%Prakarya@Ariyani. S.Kom@N#-%Informatika@Herdiana. S.Pd@N#-%Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@N#-%Matematika@Itati. S.Pd@N#-%Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@N#-%Pendidikan Kewarganegaraan@Munaiya. S.Pd@N#-%%%%%%%%%%%%%%",
@@ -12751,7 +12751,7 @@ window.SISWA_DATA = {
       "abList": [
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0134905676@AL - FAJRIIN",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0134905676@AL - FAJRIIN",
-        "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0134905676@AL - FAJRIIN",
+        "Agu/04/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,/n@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0134905676@AL - FAJRIIN",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0134905676@AL - FAJRIIN",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0134905676@AL - FAJRIIN",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0134905676@AL - FAJRIIN",
@@ -12804,7 +12804,7 @@ window.SISWA_DATA = {
     "0133598282": {
       "nisn": "0133598282",
       "password": "",
-      "rawSchedule": "08.10 - 09.30@Ilmu Pengetahuan Sosial@Kartini. S.Pd@*#09.30 - 11.20@Bahasa Indonesia@Hj. Bamunati. S.Pd@*#11.20 - 12.40@Ilmu Pengetahuan Alam@Fadillah Dwi Oktaviani. S.Pd. M.Pd@*######",
+      "rawSchedule": "08.10 - 09.30@Ilmu Pengetahuan Sosial@Kartini. S.Pd@/n#09.30 - 11.20@Bahasa Indonesia@Hj. Bamunati. S.Pd@*#11.20 - 12.40@Ilmu Pengetahuan Alam@Fadillah Dwi Oktaviani. S.Pd. M.Pd@*######",
       "rawAttendanceData": "Bahasa Indonesia@Hj. Bamunati. S.Pd@0@0@0@0@0@0#Bahasa Inggris@Megawati. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Sosial@Kartini. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Alam@Fadillah Dwi Oktaviani. S.Pd. M.Pd@0@0@0@0@0@0#Prakarya@Ariyani. S.Kom@0@0@0@0@0@0#Informatika@Herdiana. S.Pd@0@0@0@0@0@0#Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@0@0@0@0@0@0#Matematika@Itati. S.Pd@0@0@0@0@0@0#Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@0@0@0@0@0@0#Pendidikan Kewarganegaraan@Munaiya. S.Pd@0@0@0@0@0@0##############",
       "rawAssessmentData": "Bahasa Indonesia@Hj. Bamunati. S.Pd@0@0@0@0@0@0#Bahasa Inggris@Megawati. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Sosial@Kartini. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Alam@Fadillah Dwi Oktaviani. S.Pd. M.Pd@0@0@0@0@0@0#Prakarya@Ariyani. S.Kom@0@0@0@0@0@0#Informatika@Herdiana. S.Pd@0@0@0@0@0@0#Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@0@0@0@0@0@0#Matematika@Itati. S.Pd@0@0@0@0@0@0#Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@0@0@0@0@0@0#Pendidikan Kewarganegaraan@Munaiya. S.Pd@0@0@0@0@0@0##############",
       "rawNotesData": "Bahasa Indonesia@Hj. Bamunati. S.Pd@N#-%Bahasa Inggris@Megawati. S.Pd@N#-%Ilmu Pengetahuan Sosial@Kartini. S.Pd@N#-%Ilmu Pengetahuan Alam@Fadillah Dwi Oktaviani. S.Pd. M.Pd@N#-%Prakarya@Ariyani. S.Kom@N#-%Informatika@Herdiana. S.Pd@N#-%Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@N#-%Matematika@Itati. S.Pd@N#-%Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@N#-%Pendidikan Kewarganegaraan@Munaiya. S.Pd@N#-%%%%%%%%%%%%%%",
@@ -12815,7 +12815,7 @@ window.SISWA_DATA = {
       "abList": [
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0133598282@M. ERIK SAPUTRA",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0133598282@M. ERIK SAPUTRA",
-        "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0133598282@M. ERIK SAPUTRA",
+        "Agu/04/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,/n@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0133598282@M. ERIK SAPUTRA",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0133598282@M. ERIK SAPUTRA",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0133598282@M. ERIK SAPUTRA",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0133598282@M. ERIK SAPUTRA",
@@ -12868,7 +12868,7 @@ window.SISWA_DATA = {
     "0138938044": {
       "nisn": "0138938044",
       "password": "",
-      "rawSchedule": "08.10 - 09.30@Ilmu Pengetahuan Sosial@Kartini. S.Pd@*#09.30 - 11.20@Bahasa Indonesia@Hj. Bamunati. S.Pd@*#11.20 - 12.40@Ilmu Pengetahuan Alam@Fadillah Dwi Oktaviani. S.Pd. M.Pd@*######",
+      "rawSchedule": "08.10 - 09.30@Ilmu Pengetahuan Sosial@Kartini. S.Pd@/n#09.30 - 11.20@Bahasa Indonesia@Hj. Bamunati. S.Pd@*#11.20 - 12.40@Ilmu Pengetahuan Alam@Fadillah Dwi Oktaviani. S.Pd. M.Pd@*######",
       "rawAttendanceData": "Bahasa Indonesia@Hj. Bamunati. S.Pd@0@0@0@0@0@0#Bahasa Inggris@Megawati. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Sosial@Kartini. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Alam@Fadillah Dwi Oktaviani. S.Pd. M.Pd@0@0@0@0@0@0#Prakarya@Ariyani. S.Kom@0@0@0@0@0@0#Informatika@Herdiana. S.Pd@0@0@0@0@0@0#Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@0@0@0@0@0@0#Matematika@Itati. S.Pd@0@0@0@0@0@0#Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@0@0@0@0@0@0#Pendidikan Kewarganegaraan@Munaiya. S.Pd@0@0@0@0@0@0##############",
       "rawAssessmentData": "Bahasa Indonesia@Hj. Bamunati. S.Pd@0@0@0@0@0@0#Bahasa Inggris@Megawati. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Sosial@Kartini. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Alam@Fadillah Dwi Oktaviani. S.Pd. M.Pd@0@0@0@0@0@0#Prakarya@Ariyani. S.Kom@0@0@0@0@0@0#Informatika@Herdiana. S.Pd@0@0@0@0@0@0#Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@0@0@0@0@0@0#Matematika@Itati. S.Pd@0@0@0@0@0@0#Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@0@0@0@0@0@0#Pendidikan Kewarganegaraan@Munaiya. S.Pd@0@0@0@0@0@0##############",
       "rawNotesData": "Bahasa Indonesia@Hj. Bamunati. S.Pd@N#-%Bahasa Inggris@Megawati. S.Pd@N#-%Ilmu Pengetahuan Sosial@Kartini. S.Pd@N#-%Ilmu Pengetahuan Alam@Fadillah Dwi Oktaviani. S.Pd. M.Pd@N#-%Prakarya@Ariyani. S.Kom@N#-%Informatika@Herdiana. S.Pd@N#-%Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@N#-%Matematika@Itati. S.Pd@N#-%Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@N#-%Pendidikan Kewarganegaraan@Munaiya. S.Pd@N#-%%%%%%%%%%%%%%",
@@ -12879,7 +12879,7 @@ window.SISWA_DATA = {
       "abList": [
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0138938044@MUH. ABIDZAR AL GHIFARI",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0138938044@MUH. ABIDZAR AL GHIFARI",
-        "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0138938044@MUH. ABIDZAR AL GHIFARI",
+        "Agu/04/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,/n@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0138938044@MUH. ABIDZAR AL GHIFARI",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0138938044@MUH. ABIDZAR AL GHIFARI",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0138938044@MUH. ABIDZAR AL GHIFARI",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0138938044@MUH. ABIDZAR AL GHIFARI",
@@ -12932,7 +12932,7 @@ window.SISWA_DATA = {
     "0147441094": {
       "nisn": "0147441094",
       "password": "",
-      "rawSchedule": "08.10 - 09.30@Ilmu Pengetahuan Sosial@Kartini. S.Pd@*#09.30 - 11.20@Bahasa Indonesia@Hj. Bamunati. S.Pd@*#11.20 - 12.40@Ilmu Pengetahuan Alam@Fadillah Dwi Oktaviani. S.Pd. M.Pd@*######",
+      "rawSchedule": "08.10 - 09.30@Ilmu Pengetahuan Sosial@Kartini. S.Pd@/n#09.30 - 11.20@Bahasa Indonesia@Hj. Bamunati. S.Pd@*#11.20 - 12.40@Ilmu Pengetahuan Alam@Fadillah Dwi Oktaviani. S.Pd. M.Pd@*######",
       "rawAttendanceData": "Bahasa Indonesia@Hj. Bamunati. S.Pd@0@0@0@0@0@0#Bahasa Inggris@Megawati. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Sosial@Kartini. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Alam@Fadillah Dwi Oktaviani. S.Pd. M.Pd@0@0@0@0@0@0#Prakarya@Ariyani. S.Kom@0@0@0@0@0@0#Informatika@Herdiana. S.Pd@0@0@0@0@0@0#Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@0@0@0@0@0@0#Matematika@Itati. S.Pd@0@0@0@0@0@0#Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@0@0@0@0@0@0#Pendidikan Kewarganegaraan@Munaiya. S.Pd@0@0@0@0@0@0##############",
       "rawAssessmentData": "Bahasa Indonesia@Hj. Bamunati. S.Pd@0@0@0@0@0@0#Bahasa Inggris@Megawati. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Sosial@Kartini. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Alam@Fadillah Dwi Oktaviani. S.Pd. M.Pd@0@0@0@0@0@0#Prakarya@Ariyani. S.Kom@0@0@0@0@0@0#Informatika@Herdiana. S.Pd@0@0@0@0@0@0#Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@0@0@0@0@0@0#Matematika@Itati. S.Pd@0@0@0@0@0@0#Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@0@0@0@0@0@0#Pendidikan Kewarganegaraan@Munaiya. S.Pd@0@0@0@0@0@0##############",
       "rawNotesData": "Bahasa Indonesia@Hj. Bamunati. S.Pd@N#-%Bahasa Inggris@Megawati. S.Pd@N#-%Ilmu Pengetahuan Sosial@Kartini. S.Pd@N#-%Ilmu Pengetahuan Alam@Fadillah Dwi Oktaviani. S.Pd. M.Pd@N#-%Prakarya@Ariyani. S.Kom@N#-%Informatika@Herdiana. S.Pd@N#-%Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@N#-%Matematika@Itati. S.Pd@N#-%Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@N#-%Pendidikan Kewarganegaraan@Munaiya. S.Pd@N#-%%%%%%%%%%%%%%",
@@ -12943,7 +12943,7 @@ window.SISWA_DATA = {
       "abList": [
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0147441094@MUH. DAFA AL - AZZAMY",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0147441094@MUH. DAFA AL - AZZAMY",
-        "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0147441094@MUH. DAFA AL - AZZAMY",
+        "Agu/04/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,/n@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0147441094@MUH. DAFA AL - AZZAMY",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0147441094@MUH. DAFA AL - AZZAMY",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0147441094@MUH. DAFA AL - AZZAMY",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0147441094@MUH. DAFA AL - AZZAMY",
@@ -12996,7 +12996,7 @@ window.SISWA_DATA = {
     "0144264319": {
       "nisn": "0144264319",
       "password": "",
-      "rawSchedule": "08.10 - 09.30@Ilmu Pengetahuan Sosial@Kartini. S.Pd@*#09.30 - 11.20@Bahasa Indonesia@Hj. Bamunati. S.Pd@*#11.20 - 12.40@Ilmu Pengetahuan Alam@Fadillah Dwi Oktaviani. S.Pd. M.Pd@*######",
+      "rawSchedule": "08.10 - 09.30@Ilmu Pengetahuan Sosial@Kartini. S.Pd@/n#09.30 - 11.20@Bahasa Indonesia@Hj. Bamunati. S.Pd@*#11.20 - 12.40@Ilmu Pengetahuan Alam@Fadillah Dwi Oktaviani. S.Pd. M.Pd@*######",
       "rawAttendanceData": "Bahasa Indonesia@Hj. Bamunati. S.Pd@0@0@0@0@0@0#Bahasa Inggris@Megawati. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Sosial@Kartini. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Alam@Fadillah Dwi Oktaviani. S.Pd. M.Pd@0@0@0@0@0@0#Prakarya@Ariyani. S.Kom@0@0@0@0@0@0#Informatika@Herdiana. S.Pd@0@0@0@0@0@0#Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@0@0@0@0@0@0#Matematika@Itati. S.Pd@0@0@0@0@0@0#Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@0@0@0@0@0@0#Pendidikan Kewarganegaraan@Munaiya. S.Pd@0@0@0@0@0@0##############",
       "rawAssessmentData": "Bahasa Indonesia@Hj. Bamunati. S.Pd@0@0@0@0@0@0#Bahasa Inggris@Megawati. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Sosial@Kartini. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Alam@Fadillah Dwi Oktaviani. S.Pd. M.Pd@0@0@0@0@0@0#Prakarya@Ariyani. S.Kom@0@0@0@0@0@0#Informatika@Herdiana. S.Pd@0@0@0@0@0@0#Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@0@0@0@0@0@0#Matematika@Itati. S.Pd@0@0@0@0@0@0#Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@0@0@0@0@0@0#Pendidikan Kewarganegaraan@Munaiya. S.Pd@0@0@0@0@0@0##############",
       "rawNotesData": "Bahasa Indonesia@Hj. Bamunati. S.Pd@N#-%Bahasa Inggris@Megawati. S.Pd@N#-%Ilmu Pengetahuan Sosial@Kartini. S.Pd@N#-%Ilmu Pengetahuan Alam@Fadillah Dwi Oktaviani. S.Pd. M.Pd@N#-%Prakarya@Ariyani. S.Kom@N#-%Informatika@Herdiana. S.Pd@N#-%Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@N#-%Matematika@Itati. S.Pd@N#-%Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@N#-%Pendidikan Kewarganegaraan@Munaiya. S.Pd@N#-%%%%%%%%%%%%%%",
@@ -13007,7 +13007,7 @@ window.SISWA_DATA = {
       "abList": [
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0144264319@MUHAMMAD ALIF SAPUTRA",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0144264319@MUHAMMAD ALIF SAPUTRA",
-        "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0144264319@MUHAMMAD ALIF SAPUTRA",
+        "Agu/04/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,/n@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0144264319@MUHAMMAD ALIF SAPUTRA",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0144264319@MUHAMMAD ALIF SAPUTRA",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0144264319@MUHAMMAD ALIF SAPUTRA",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0144264319@MUHAMMAD ALIF SAPUTRA",
@@ -13060,7 +13060,7 @@ window.SISWA_DATA = {
     "0141180765": {
       "nisn": "0141180765",
       "password": "",
-      "rawSchedule": "08.10 - 09.30@Ilmu Pengetahuan Sosial@Kartini. S.Pd@*#09.30 - 11.20@Bahasa Indonesia@Hj. Bamunati. S.Pd@*#11.20 - 12.40@Ilmu Pengetahuan Alam@Fadillah Dwi Oktaviani. S.Pd. M.Pd@*######",
+      "rawSchedule": "08.10 - 09.30@Ilmu Pengetahuan Sosial@Kartini. S.Pd@/n#09.30 - 11.20@Bahasa Indonesia@Hj. Bamunati. S.Pd@*#11.20 - 12.40@Ilmu Pengetahuan Alam@Fadillah Dwi Oktaviani. S.Pd. M.Pd@*######",
       "rawAttendanceData": "Bahasa Indonesia@Hj. Bamunati. S.Pd@0@0@0@0@0@0#Bahasa Inggris@Megawati. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Sosial@Kartini. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Alam@Fadillah Dwi Oktaviani. S.Pd. M.Pd@0@0@0@0@0@0#Prakarya@Ariyani. S.Kom@0@0@0@0@0@0#Informatika@Herdiana. S.Pd@0@0@0@0@0@0#Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@0@0@0@0@0@0#Matematika@Itati. S.Pd@0@0@0@0@0@0#Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@0@0@0@0@0@0#Pendidikan Kewarganegaraan@Munaiya. S.Pd@0@0@0@0@0@0##############",
       "rawAssessmentData": "Bahasa Indonesia@Hj. Bamunati. S.Pd@0@0@0@0@0@0#Bahasa Inggris@Megawati. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Sosial@Kartini. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Alam@Fadillah Dwi Oktaviani. S.Pd. M.Pd@0@0@0@0@0@0#Prakarya@Ariyani. S.Kom@0@0@0@0@0@0#Informatika@Herdiana. S.Pd@0@0@0@0@0@0#Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@0@0@0@0@0@0#Matematika@Itati. S.Pd@0@0@0@0@0@0#Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@0@0@0@0@0@0#Pendidikan Kewarganegaraan@Munaiya. S.Pd@0@0@0@0@0@0##############",
       "rawNotesData": "Bahasa Indonesia@Hj. Bamunati. S.Pd@N#-%Bahasa Inggris@Megawati. S.Pd@N#-%Ilmu Pengetahuan Sosial@Kartini. S.Pd@N#-%Ilmu Pengetahuan Alam@Fadillah Dwi Oktaviani. S.Pd. M.Pd@N#-%Prakarya@Ariyani. S.Kom@N#-%Informatika@Herdiana. S.Pd@N#-%Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@N#-%Matematika@Itati. S.Pd@N#-%Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@N#-%Pendidikan Kewarganegaraan@Munaiya. S.Pd@N#-%%%%%%%%%%%%%%",
@@ -13071,7 +13071,7 @@ window.SISWA_DATA = {
       "abList": [
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0141180765@MUHAMMAD ARVIN",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0141180765@MUHAMMAD ARVIN",
-        "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0141180765@MUHAMMAD ARVIN",
+        "Agu/04/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,/n@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0141180765@MUHAMMAD ARVIN",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0141180765@MUHAMMAD ARVIN",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0141180765@MUHAMMAD ARVIN",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0141180765@MUHAMMAD ARVIN",
@@ -13124,7 +13124,7 @@ window.SISWA_DATA = {
     "0121924259": {
       "nisn": "0121924259",
       "password": "",
-      "rawSchedule": "08.10 - 09.30@Ilmu Pengetahuan Sosial@Kartini. S.Pd@*#09.30 - 11.20@Bahasa Indonesia@Hj. Bamunati. S.Pd@*#11.20 - 12.40@Ilmu Pengetahuan Alam@Fadillah Dwi Oktaviani. S.Pd. M.Pd@*######",
+      "rawSchedule": "08.10 - 09.30@Ilmu Pengetahuan Sosial@Kartini. S.Pd@/n#09.30 - 11.20@Bahasa Indonesia@Hj. Bamunati. S.Pd@*#11.20 - 12.40@Ilmu Pengetahuan Alam@Fadillah Dwi Oktaviani. S.Pd. M.Pd@*######",
       "rawAttendanceData": "Bahasa Indonesia@Hj. Bamunati. S.Pd@0@0@0@0@0@0#Bahasa Inggris@Megawati. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Sosial@Kartini. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Alam@Fadillah Dwi Oktaviani. S.Pd. M.Pd@0@0@0@0@0@0#Prakarya@Ariyani. S.Kom@0@0@0@0@0@0#Informatika@Herdiana. S.Pd@0@0@0@0@0@0#Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@0@0@0@0@0@0#Matematika@Itati. S.Pd@0@0@0@0@0@0#Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@0@0@0@0@0@0#Pendidikan Kewarganegaraan@Munaiya. S.Pd@0@0@0@0@0@0##############",
       "rawAssessmentData": "Bahasa Indonesia@Hj. Bamunati. S.Pd@0@0@0@0@0@0#Bahasa Inggris@Megawati. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Sosial@Kartini. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Alam@Fadillah Dwi Oktaviani. S.Pd. M.Pd@0@0@0@0@0@0#Prakarya@Ariyani. S.Kom@0@0@0@0@0@0#Informatika@Herdiana. S.Pd@0@0@0@0@0@0#Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@0@0@0@0@0@0#Matematika@Itati. S.Pd@0@0@0@0@0@0#Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@0@0@0@0@0@0#Pendidikan Kewarganegaraan@Munaiya. S.Pd@0@0@0@0@0@0##############",
       "rawNotesData": "Bahasa Indonesia@Hj. Bamunati. S.Pd@N#-%Bahasa Inggris@Megawati. S.Pd@N#-%Ilmu Pengetahuan Sosial@Kartini. S.Pd@N#-%Ilmu Pengetahuan Alam@Fadillah Dwi Oktaviani. S.Pd. M.Pd@N#-%Prakarya@Ariyani. S.Kom@N#-%Informatika@Herdiana. S.Pd@N#-%Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@N#-%Matematika@Itati. S.Pd@N#-%Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@N#-%Pendidikan Kewarganegaraan@Munaiya. S.Pd@N#-%%%%%%%%%%%%%%",
@@ -13135,7 +13135,7 @@ window.SISWA_DATA = {
       "abList": [
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0121924259@MUHAMMAD ASHAR",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0121924259@MUHAMMAD ASHAR",
-        "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0121924259@MUHAMMAD ASHAR",
+        "Agu/04/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,/n@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0121924259@MUHAMMAD ASHAR",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0121924259@MUHAMMAD ASHAR",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0121924259@MUHAMMAD ASHAR",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0121924259@MUHAMMAD ASHAR",
@@ -13188,7 +13188,7 @@ window.SISWA_DATA = {
     "0141329072": {
       "nisn": "0141329072",
       "password": "",
-      "rawSchedule": "08.10 - 09.30@Ilmu Pengetahuan Sosial@Kartini. S.Pd@*#09.30 - 11.20@Bahasa Indonesia@Hj. Bamunati. S.Pd@*#11.20 - 12.40@Ilmu Pengetahuan Alam@Fadillah Dwi Oktaviani. S.Pd. M.Pd@*######",
+      "rawSchedule": "08.10 - 09.30@Ilmu Pengetahuan Sosial@Kartini. S.Pd@/n#09.30 - 11.20@Bahasa Indonesia@Hj. Bamunati. S.Pd@*#11.20 - 12.40@Ilmu Pengetahuan Alam@Fadillah Dwi Oktaviani. S.Pd. M.Pd@*######",
       "rawAttendanceData": "Bahasa Indonesia@Hj. Bamunati. S.Pd@0@0@0@0@0@0#Bahasa Inggris@Megawati. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Sosial@Kartini. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Alam@Fadillah Dwi Oktaviani. S.Pd. M.Pd@0@0@0@0@0@0#Prakarya@Ariyani. S.Kom@0@0@0@0@0@0#Informatika@Herdiana. S.Pd@0@0@0@0@0@0#Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@0@0@0@0@0@0#Matematika@Itati. S.Pd@0@0@0@0@0@0#Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@0@0@0@0@0@0#Pendidikan Kewarganegaraan@Munaiya. S.Pd@0@0@0@0@0@0##############",
       "rawAssessmentData": "Bahasa Indonesia@Hj. Bamunati. S.Pd@0@0@0@0@0@0#Bahasa Inggris@Megawati. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Sosial@Kartini. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Alam@Fadillah Dwi Oktaviani. S.Pd. M.Pd@0@0@0@0@0@0#Prakarya@Ariyani. S.Kom@0@0@0@0@0@0#Informatika@Herdiana. S.Pd@0@0@0@0@0@0#Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@0@0@0@0@0@0#Matematika@Itati. S.Pd@0@0@0@0@0@0#Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@0@0@0@0@0@0#Pendidikan Kewarganegaraan@Munaiya. S.Pd@0@0@0@0@0@0##############",
       "rawNotesData": "Bahasa Indonesia@Hj. Bamunati. S.Pd@N#-%Bahasa Inggris@Megawati. S.Pd@N#-%Ilmu Pengetahuan Sosial@Kartini. S.Pd@N#-%Ilmu Pengetahuan Alam@Fadillah Dwi Oktaviani. S.Pd. M.Pd@N#-%Prakarya@Ariyani. S.Kom@N#-%Informatika@Herdiana. S.Pd@N#-%Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@N#-%Matematika@Itati. S.Pd@N#-%Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@N#-%Pendidikan Kewarganegaraan@Munaiya. S.Pd@N#-%%%%%%%%%%%%%%",
@@ -13199,7 +13199,7 @@ window.SISWA_DATA = {
       "abList": [
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0141329072@MUHAMMAD FAIZ SYAPUTRA",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0141329072@MUHAMMAD FAIZ SYAPUTRA",
-        "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0141329072@MUHAMMAD FAIZ SYAPUTRA",
+        "Agu/04/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,/n@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0141329072@MUHAMMAD FAIZ SYAPUTRA",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0141329072@MUHAMMAD FAIZ SYAPUTRA",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0141329072@MUHAMMAD FAIZ SYAPUTRA",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0141329072@MUHAMMAD FAIZ SYAPUTRA",
@@ -13252,7 +13252,7 @@ window.SISWA_DATA = {
     "0136345464": {
       "nisn": "0136345464",
       "password": "",
-      "rawSchedule": "08.10 - 09.30@Ilmu Pengetahuan Sosial@Kartini. S.Pd@*#09.30 - 11.20@Bahasa Indonesia@Hj. Bamunati. S.Pd@*#11.20 - 12.40@Ilmu Pengetahuan Alam@Fadillah Dwi Oktaviani. S.Pd. M.Pd@*######",
+      "rawSchedule": "08.10 - 09.30@Ilmu Pengetahuan Sosial@Kartini. S.Pd@/n#09.30 - 11.20@Bahasa Indonesia@Hj. Bamunati. S.Pd@*#11.20 - 12.40@Ilmu Pengetahuan Alam@Fadillah Dwi Oktaviani. S.Pd. M.Pd@*######",
       "rawAttendanceData": "Bahasa Indonesia@Hj. Bamunati. S.Pd@0@0@0@0@0@0#Bahasa Inggris@Megawati. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Sosial@Kartini. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Alam@Fadillah Dwi Oktaviani. S.Pd. M.Pd@0@0@0@0@0@0#Prakarya@Ariyani. S.Kom@0@0@0@0@0@0#Informatika@Herdiana. S.Pd@0@0@0@0@0@0#Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@0@0@0@0@0@0#Matematika@Itati. S.Pd@0@0@0@0@0@0#Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@0@0@0@0@0@0#Pendidikan Kewarganegaraan@Munaiya. S.Pd@0@0@0@0@0@0##############",
       "rawAssessmentData": "Bahasa Indonesia@Hj. Bamunati. S.Pd@0@0@0@0@0@0#Bahasa Inggris@Megawati. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Sosial@Kartini. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Alam@Fadillah Dwi Oktaviani. S.Pd. M.Pd@0@0@0@0@0@0#Prakarya@Ariyani. S.Kom@0@0@0@0@0@0#Informatika@Herdiana. S.Pd@0@0@0@0@0@0#Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@0@0@0@0@0@0#Matematika@Itati. S.Pd@0@0@0@0@0@0#Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@0@0@0@0@0@0#Pendidikan Kewarganegaraan@Munaiya. S.Pd@0@0@0@0@0@0##############",
       "rawNotesData": "Bahasa Indonesia@Hj. Bamunati. S.Pd@N#-%Bahasa Inggris@Megawati. S.Pd@N#-%Ilmu Pengetahuan Sosial@Kartini. S.Pd@N#-%Ilmu Pengetahuan Alam@Fadillah Dwi Oktaviani. S.Pd. M.Pd@N#-%Prakarya@Ariyani. S.Kom@N#-%Informatika@Herdiana. S.Pd@N#-%Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@N#-%Matematika@Itati. S.Pd@N#-%Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@N#-%Pendidikan Kewarganegaraan@Munaiya. S.Pd@N#-%%%%%%%%%%%%%%",
@@ -13263,7 +13263,7 @@ window.SISWA_DATA = {
       "abList": [
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0136345464@MUHAMMAD FARID GHAISAN",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0136345464@MUHAMMAD FARID GHAISAN",
-        "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0136345464@MUHAMMAD FARID GHAISAN",
+        "Agu/04/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,/n@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0136345464@MUHAMMAD FARID GHAISAN",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0136345464@MUHAMMAD FARID GHAISAN",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0136345464@MUHAMMAD FARID GHAISAN",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0136345464@MUHAMMAD FARID GHAISAN",
@@ -13316,7 +13316,7 @@ window.SISWA_DATA = {
     "0141190477": {
       "nisn": "0141190477",
       "password": "",
-      "rawSchedule": "08.10 - 09.30@Ilmu Pengetahuan Sosial@Kartini. S.Pd@*#09.30 - 11.20@Bahasa Indonesia@Hj. Bamunati. S.Pd@*#11.20 - 12.40@Ilmu Pengetahuan Alam@Fadillah Dwi Oktaviani. S.Pd. M.Pd@*######",
+      "rawSchedule": "08.10 - 09.30@Ilmu Pengetahuan Sosial@Kartini. S.Pd@/n#09.30 - 11.20@Bahasa Indonesia@Hj. Bamunati. S.Pd@*#11.20 - 12.40@Ilmu Pengetahuan Alam@Fadillah Dwi Oktaviani. S.Pd. M.Pd@*######",
       "rawAttendanceData": "Bahasa Indonesia@Hj. Bamunati. S.Pd@0@0@0@0@0@0#Bahasa Inggris@Megawati. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Sosial@Kartini. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Alam@Fadillah Dwi Oktaviani. S.Pd. M.Pd@0@0@0@0@0@0#Prakarya@Ariyani. S.Kom@0@0@0@0@0@0#Informatika@Herdiana. S.Pd@0@0@0@0@0@0#Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@0@0@0@0@0@0#Matematika@Itati. S.Pd@0@0@0@0@0@0#Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@0@0@0@0@0@0#Pendidikan Kewarganegaraan@Munaiya. S.Pd@0@0@0@0@0@0##############",
       "rawAssessmentData": "Bahasa Indonesia@Hj. Bamunati. S.Pd@0@0@0@0@0@0#Bahasa Inggris@Megawati. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Sosial@Kartini. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Alam@Fadillah Dwi Oktaviani. S.Pd. M.Pd@0@0@0@0@0@0#Prakarya@Ariyani. S.Kom@0@0@0@0@0@0#Informatika@Herdiana. S.Pd@0@0@0@0@0@0#Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@0@0@0@0@0@0#Matematika@Itati. S.Pd@0@0@0@0@0@0#Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@0@0@0@0@0@0#Pendidikan Kewarganegaraan@Munaiya. S.Pd@0@0@0@0@0@0##############",
       "rawNotesData": "Bahasa Indonesia@Hj. Bamunati. S.Pd@N#-%Bahasa Inggris@Megawati. S.Pd@N#-%Ilmu Pengetahuan Sosial@Kartini. S.Pd@N#-%Ilmu Pengetahuan Alam@Fadillah Dwi Oktaviani. S.Pd. M.Pd@N#-%Prakarya@Ariyani. S.Kom@N#-%Informatika@Herdiana. S.Pd@N#-%Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@N#-%Matematika@Itati. S.Pd@N#-%Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@N#-%Pendidikan Kewarganegaraan@Munaiya. S.Pd@N#-%%%%%%%%%%%%%%",
@@ -13327,7 +13327,7 @@ window.SISWA_DATA = {
       "abList": [
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0141190477@MUHAMMAD WAHYU",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0141190477@MUHAMMAD WAHYU",
-        "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0141190477@MUHAMMAD WAHYU",
+        "Agu/04/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,/n@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0141190477@MUHAMMAD WAHYU",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0141190477@MUHAMMAD WAHYU",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0141190477@MUHAMMAD WAHYU",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0141190477@MUHAMMAD WAHYU",
@@ -13380,7 +13380,7 @@ window.SISWA_DATA = {
     "0145091639": {
       "nisn": "0145091639",
       "password": "",
-      "rawSchedule": "08.10 - 09.30@Ilmu Pengetahuan Sosial@Kartini. S.Pd@*#09.30 - 11.20@Bahasa Indonesia@Hj. Bamunati. S.Pd@*#11.20 - 12.40@Ilmu Pengetahuan Alam@Fadillah Dwi Oktaviani. S.Pd. M.Pd@*######",
+      "rawSchedule": "08.10 - 09.30@Ilmu Pengetahuan Sosial@Kartini. S.Pd@/n#09.30 - 11.20@Bahasa Indonesia@Hj. Bamunati. S.Pd@*#11.20 - 12.40@Ilmu Pengetahuan Alam@Fadillah Dwi Oktaviani. S.Pd. M.Pd@*######",
       "rawAttendanceData": "Bahasa Indonesia@Hj. Bamunati. S.Pd@0@0@0@0@0@0#Bahasa Inggris@Megawati. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Sosial@Kartini. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Alam@Fadillah Dwi Oktaviani. S.Pd. M.Pd@0@0@0@0@0@0#Prakarya@Ariyani. S.Kom@0@0@0@0@0@0#Informatika@Herdiana. S.Pd@0@0@0@0@0@0#Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@0@0@0@0@0@0#Matematika@Itati. S.Pd@0@0@0@0@0@0#Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@0@0@0@0@0@0#Pendidikan Kewarganegaraan@Munaiya. S.Pd@0@0@0@0@0@0##############",
       "rawAssessmentData": "Bahasa Indonesia@Hj. Bamunati. S.Pd@0@0@0@0@0@0#Bahasa Inggris@Megawati. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Sosial@Kartini. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Alam@Fadillah Dwi Oktaviani. S.Pd. M.Pd@0@0@0@0@0@0#Prakarya@Ariyani. S.Kom@0@0@0@0@0@0#Informatika@Herdiana. S.Pd@0@0@0@0@0@0#Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@0@0@0@0@0@0#Matematika@Itati. S.Pd@0@0@0@0@0@0#Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@0@0@0@0@0@0#Pendidikan Kewarganegaraan@Munaiya. S.Pd@0@0@0@0@0@0##############",
       "rawNotesData": "Bahasa Indonesia@Hj. Bamunati. S.Pd@N#-%Bahasa Inggris@Megawati. S.Pd@N#-%Ilmu Pengetahuan Sosial@Kartini. S.Pd@N#-%Ilmu Pengetahuan Alam@Fadillah Dwi Oktaviani. S.Pd. M.Pd@N#-%Prakarya@Ariyani. S.Kom@N#-%Informatika@Herdiana. S.Pd@N#-%Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@N#-%Matematika@Itati. S.Pd@N#-%Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@N#-%Pendidikan Kewarganegaraan@Munaiya. S.Pd@N#-%%%%%%%%%%%%%%",
@@ -13391,7 +13391,7 @@ window.SISWA_DATA = {
       "abList": [
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0145091639@RAIHANA RAMADHANI. S",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0145091639@RAIHANA RAMADHANI. S",
-        "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0145091639@RAIHANA RAMADHANI. S",
+        "Agu/04/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,/n@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0145091639@RAIHANA RAMADHANI. S",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0145091639@RAIHANA RAMADHANI. S",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0145091639@RAIHANA RAMADHANI. S",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0145091639@RAIHANA RAMADHANI. S",
@@ -13444,7 +13444,7 @@ window.SISWA_DATA = {
     "0138174320": {
       "nisn": "0138174320",
       "password": "",
-      "rawSchedule": "08.10 - 09.30@Ilmu Pengetahuan Sosial@Kartini. S.Pd@*#09.30 - 11.20@Bahasa Indonesia@Hj. Bamunati. S.Pd@*#11.20 - 12.40@Ilmu Pengetahuan Alam@Fadillah Dwi Oktaviani. S.Pd. M.Pd@*######",
+      "rawSchedule": "08.10 - 09.30@Ilmu Pengetahuan Sosial@Kartini. S.Pd@/n#09.30 - 11.20@Bahasa Indonesia@Hj. Bamunati. S.Pd@*#11.20 - 12.40@Ilmu Pengetahuan Alam@Fadillah Dwi Oktaviani. S.Pd. M.Pd@*######",
       "rawAttendanceData": "Bahasa Indonesia@Hj. Bamunati. S.Pd@0@0@0@0@0@0#Bahasa Inggris@Megawati. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Sosial@Kartini. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Alam@Fadillah Dwi Oktaviani. S.Pd. M.Pd@0@0@0@0@0@0#Prakarya@Ariyani. S.Kom@0@0@0@0@0@0#Informatika@Herdiana. S.Pd@0@0@0@0@0@0#Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@0@0@0@0@0@0#Matematika@Itati. S.Pd@0@0@0@0@0@0#Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@0@0@0@0@0@0#Pendidikan Kewarganegaraan@Munaiya. S.Pd@0@0@0@0@0@0##############",
       "rawAssessmentData": "Bahasa Indonesia@Hj. Bamunati. S.Pd@0@0@0@0@0@0#Bahasa Inggris@Megawati. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Sosial@Kartini. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Alam@Fadillah Dwi Oktaviani. S.Pd. M.Pd@0@0@0@0@0@0#Prakarya@Ariyani. S.Kom@0@0@0@0@0@0#Informatika@Herdiana. S.Pd@0@0@0@0@0@0#Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@0@0@0@0@0@0#Matematika@Itati. S.Pd@0@0@0@0@0@0#Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@0@0@0@0@0@0#Pendidikan Kewarganegaraan@Munaiya. S.Pd@0@0@0@0@0@0##############",
       "rawNotesData": "Bahasa Indonesia@Hj. Bamunati. S.Pd@N#-%Bahasa Inggris@Megawati. S.Pd@N#-%Ilmu Pengetahuan Sosial@Kartini. S.Pd@N#-%Ilmu Pengetahuan Alam@Fadillah Dwi Oktaviani. S.Pd. M.Pd@N#-%Prakarya@Ariyani. S.Kom@N#-%Informatika@Herdiana. S.Pd@N#-%Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@N#-%Matematika@Itati. S.Pd@N#-%Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@N#-%Pendidikan Kewarganegaraan@Munaiya. S.Pd@N#-%%%%%%%%%%%%%%",
@@ -13455,7 +13455,7 @@ window.SISWA_DATA = {
       "abList": [
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0138174320@ZAHRATUN NADIRA",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0138174320@ZAHRATUN NADIRA",
-        "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0138174320@ZAHRATUN NADIRA",
+        "Agu/04/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,/n@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0138174320@ZAHRATUN NADIRA",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0138174320@ZAHRATUN NADIRA",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0138174320@ZAHRATUN NADIRA",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0138174320@ZAHRATUN NADIRA",
