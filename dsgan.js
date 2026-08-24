@@ -132,7 +132,7 @@ window.SISWA_DATA = {
     "3115390384": {
       "nisn": "3115390384",
       "password": "",
-      "rawSchedule": "08.10 - 10.10@Ilmu Pengetahuan Sosial@Kartini. S.Pd@*#10.40 - 12.40@Bahasa Inggris@Munaiya. S.Pd@*#######",
+      "rawSchedule": "08.10 - 10.10@Ilmu Pengetahuan Sosial@Kartini. S.Pd@/n#10.40 - 12.40@Bahasa Inggris@Munaiya. S.Pd@*#######",
       "rawAttendanceData": "Ilmu Pengetahuan Sosial@Kartini. S.Pd@1@0@0@0@0@0#Bahasa Inggris@Munaiya. S.Pd@0@0@0@0@0@0#Matematika@Rusni. S.Pd@0@0@0@0@0@0#Pendidikan Kewarganegaraan@Herdiana. S.Pd@0@0@0@0@0@0#Bahasa Indonesia@Hj. Salma. SS@0@0@0@0@0@0#Informatika@Sukma Tahir. S.Pd@0@0@0@0@0@0#Prakarya@Ariyani. S.Kom@0@0@0@0@0@0#Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Alam@Resky Amalia Hamka. S.Pd@0@0@0@0@0@0#Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@0@0@0@0@0@0##############",
       "rawAssessmentData": "Ilmu Pengetahuan Sosial@Kartini. S.Pd@0@0@0@0@0@0#Bahasa Inggris@Munaiya. S.Pd@0@0@0@0@0@0#Matematika@Rusni. S.Pd@0@0@0@0@0@0#Pendidikan Kewarganegaraan@Herdiana. S.Pd@0@0@0@0@0@0#Bahasa Indonesia@Hj. Salma. SS@0@0@0@0@0@0#Informatika@Sukma Tahir. S.Pd@0@0@0@0@0@0#Prakarya@Ariyani. S.Kom@0@0@0@0@0@0#Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Alam@Resky Amalia Hamka. S.Pd@0@0@0@0@0@0#Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@0@0@0@0@0@0##############",
       "rawNotesData": "Ilmu Pengetahuan Sosial@Kartini. S.Pd@N#-%Bahasa Inggris@Munaiya. S.Pd@N#-%Matematika@Rusni. S.Pd@N#-%Pendidikan Kewarganegaraan@Herdiana. S.Pd@N#-%Bahasa Indonesia@Hj. Salma. SS@N#-%Informatika@Sukma Tahir. S.Pd@N#-%Prakarya@Ariyani. S.Kom@N#-%Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@N#-%Ilmu Pengetahuan Alam@Resky Amalia Hamka. S.Pd@N#-%Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@N#-%%%%%%%%%%%%%%",
@@ -141,7 +141,7 @@ window.SISWA_DATA = {
       "kelas": "IX.B",
       "kehadiranAmbang": "80",
       "abList": [
-        "Agu/03/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,3115390384@SRI MULYANI",
+        "Agu/03/2026@Agu/24/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@/n@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,3115390384@SRI MULYANI",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,3115390384@SRI MULYANI",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,3115390384@SRI MULYANI",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,3115390384@SRI MULYANI",
@@ -324,7 +324,7 @@ window.SISWA_DATA = {
     "3118908544": {
       "nisn": "3118908544",
       "password": "",
-      "rawSchedule": "08.10 - 10.10@Ilmu Pengetahuan Sosial@Kartini. S.Pd@*#10.40 - 12.40@Bahasa Inggris@Munaiya. S.Pd@*#######",
+      "rawSchedule": "08.10 - 10.10@Ilmu Pengetahuan Sosial@Kartini. S.Pd@/n#10.40 - 12.40@Bahasa Inggris@Munaiya. S.Pd@*#######",
       "rawAttendanceData": "Ilmu Pengetahuan Sosial@Kartini. S.Pd@1@0@0@0@0@0#Bahasa Inggris@Munaiya. S.Pd@0@0@0@0@0@0#Matematika@Rusni. S.Pd@0@0@0@0@0@0#Pendidikan Kewarganegaraan@Herdiana. S.Pd@0@0@0@0@0@0#Bahasa Indonesia@Hj. Salma. SS@0@0@0@0@0@0#Informatika@Sukma Tahir. S.Pd@0@0@0@0@0@0#Prakarya@Ariyani. S.Kom@0@0@0@0@0@0#Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Alam@Resky Amalia Hamka. S.Pd@0@0@0@0@0@0#Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@0@0@0@0@0@0##############",
       "rawAssessmentData": "Ilmu Pengetahuan Sosial@Kartini. S.Pd@0@0@0@0@0@0#Bahasa Inggris@Munaiya. S.Pd@0@0@0@0@0@0#Matematika@Rusni. S.Pd@0@0@0@0@0@0#Pendidikan Kewarganegaraan@Herdiana. S.Pd@0@0@0@0@0@0#Bahasa Indonesia@Hj. Salma. SS@0@0@0@0@0@0#Informatika@Sukma Tahir. S.Pd@0@0@0@0@0@0#Prakarya@Ariyani. S.Kom@0@0@0@0@0@0#Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Alam@Resky Amalia Hamka. S.Pd@0@0@0@0@0@0#Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@0@0@0@0@0@0##############",
       "rawNotesData": "Ilmu Pengetahuan Sosial@Kartini. S.Pd@N#-%Bahasa Inggris@Munaiya. S.Pd@N#-%Matematika@Rusni. S.Pd@N#-%Pendidikan Kewarganegaraan@Herdiana. S.Pd@N#-%Bahasa Indonesia@Hj. Salma. SS@N#-%Informatika@Sukma Tahir. S.Pd@N#-%Prakarya@Ariyani. S.Kom@N#-%Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@N#-%Ilmu Pengetahuan Alam@Resky Amalia Hamka. S.Pd@N#-%Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@N#-%%%%%%%%%%%%%%",
@@ -333,7 +333,7 @@ window.SISWA_DATA = {
       "kelas": "IX.B",
       "kehadiranAmbang": "80",
       "abList": [
-        "Agu/03/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,3118908544@MUHAMAD ISWANDY ANIS",
+        "Agu/03/2026@Agu/24/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@/n@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,3118908544@MUHAMAD ISWANDY ANIS",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,3118908544@MUHAMAD ISWANDY ANIS",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,3118908544@MUHAMAD ISWANDY ANIS",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,3118908544@MUHAMAD ISWANDY ANIS",
@@ -1348,7 +1348,7 @@ window.SISWA_DATA = {
     "3126084281": {
       "nisn": "3126084281",
       "password": "",
-      "rawSchedule": "08.10 - 10.10@Ilmu Pengetahuan Sosial@Kartini. S.Pd@*#10.40 - 12.40@Bahasa Inggris@Munaiya. S.Pd@*#######",
+      "rawSchedule": "08.10 - 10.10@Ilmu Pengetahuan Sosial@Kartini. S.Pd@/n#10.40 - 12.40@Bahasa Inggris@Munaiya. S.Pd@*#######",
       "rawAttendanceData": "Ilmu Pengetahuan Sosial@Kartini. S.Pd@0@0@1@0@0@0#Bahasa Inggris@Munaiya. S.Pd@0@0@0@0@0@0#Matematika@Rusni. S.Pd@0@0@0@0@0@0#Pendidikan Kewarganegaraan@Herdiana. S.Pd@0@0@0@0@0@0#Bahasa Indonesia@Hj. Salma. SS@0@0@0@0@0@0#Informatika@Sukma Tahir. S.Pd@0@0@0@0@0@0#Prakarya@Ariyani. S.Kom@0@0@0@0@0@0#Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Alam@Resky Amalia Hamka. S.Pd@0@0@0@0@0@0#Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@0@0@0@0@0@0##############",
       "rawAssessmentData": "Ilmu Pengetahuan Sosial@Kartini. S.Pd@0@0@0@0@0@0#Bahasa Inggris@Munaiya. S.Pd@0@0@0@0@0@0#Matematika@Rusni. S.Pd@0@0@0@0@0@0#Pendidikan Kewarganegaraan@Herdiana. S.Pd@0@0@0@0@0@0#Bahasa Indonesia@Hj. Salma. SS@0@0@0@0@0@0#Informatika@Sukma Tahir. S.Pd@0@0@0@0@0@0#Prakarya@Ariyani. S.Kom@0@0@0@0@0@0#Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Alam@Resky Amalia Hamka. S.Pd@0@0@0@0@0@0#Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@0@0@0@0@0@0##############",
       "rawNotesData": "Ilmu Pengetahuan Sosial@Kartini. S.Pd@N#-%Bahasa Inggris@Munaiya. S.Pd@N#-%Matematika@Rusni. S.Pd@N#-%Pendidikan Kewarganegaraan@Herdiana. S.Pd@N#-%Bahasa Indonesia@Hj. Salma. SS@N#-%Informatika@Sukma Tahir. S.Pd@N#-%Prakarya@Ariyani. S.Kom@N#-%Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@N#-%Ilmu Pengetahuan Alam@Resky Amalia Hamka. S.Pd@N#-%Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@N#-%%%%%%%%%%%%%%",
@@ -1357,7 +1357,7 @@ window.SISWA_DATA = {
       "kelas": "IX.B",
       "kehadiranAmbang": "80",
       "abList": [
-        "Agu/03/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,I@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,3126084281@AMELIA PUTRI",
+        "Agu/03/2026@Agu/24/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,I@/n@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,3126084281@AMELIA PUTRI",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,3126084281@AMELIA PUTRI",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,3126084281@AMELIA PUTRI",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,3126084281@AMELIA PUTRI",
@@ -1412,8 +1412,8 @@ window.SISWA_DATA = {
     "3126460047": {
       "nisn": "3126460047",
       "password": "",
-      "rawSchedule": "08.10 - 10.10@Ilmu Pengetahuan Sosial@Kartini. S.Pd@*#10.40 - 12.40@Bahasa Inggris@Munaiya. S.Pd@*#######",
-      "rawAttendanceData": "Ilmu Pengetahuan Sosial@Kartini. S.Pd@1@0@0@0@0@0#Bahasa Inggris@Munaiya. S.Pd@0@0@0@0@0@0#Matematika@Rusni. S.Pd@0@0@0@0@0@0#Pendidikan Kewarganegaraan@Herdiana. S.Pd@0@0@0@0@0@0#Bahasa Indonesia@Hj. Salma. SS@0@0@0@0@0@0#Informatika@Sukma Tahir. S.Pd@0@0@0@0@0@0#Prakarya@Ariyani. S.Kom@0@0@0@0@0@0#Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Alam@Resky Amalia Hamka. S.Pd@0@0@0@0@0@0#Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@0@0@0@0@0@0##############",
+      "rawSchedule": "08.10 - 10.10@Ilmu Pengetahuan Sosial@Kartini. S.Pd@A#10.40 - 12.40@Bahasa Inggris@Munaiya. S.Pd@*#######",
+      "rawAttendanceData": "Ilmu Pengetahuan Sosial@Kartini. S.Pd@1@0@0@0@1@0#Bahasa Inggris@Munaiya. S.Pd@0@0@0@0@0@0#Matematika@Rusni. S.Pd@0@0@0@0@0@0#Pendidikan Kewarganegaraan@Herdiana. S.Pd@0@0@0@0@0@0#Bahasa Indonesia@Hj. Salma. SS@0@0@0@0@0@0#Informatika@Sukma Tahir. S.Pd@0@0@0@0@0@0#Prakarya@Ariyani. S.Kom@0@0@0@0@0@0#Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Alam@Resky Amalia Hamka. S.Pd@0@0@0@0@0@0#Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@0@0@0@0@0@0##############",
       "rawAssessmentData": "Ilmu Pengetahuan Sosial@Kartini. S.Pd@0@0@0@0@0@0#Bahasa Inggris@Munaiya. S.Pd@0@0@0@0@0@0#Matematika@Rusni. S.Pd@0@0@0@0@0@0#Pendidikan Kewarganegaraan@Herdiana. S.Pd@0@0@0@0@0@0#Bahasa Indonesia@Hj. Salma. SS@0@0@0@0@0@0#Informatika@Sukma Tahir. S.Pd@0@0@0@0@0@0#Prakarya@Ariyani. S.Kom@0@0@0@0@0@0#Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Alam@Resky Amalia Hamka. S.Pd@0@0@0@0@0@0#Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@0@0@0@0@0@0##############",
       "rawNotesData": "Ilmu Pengetahuan Sosial@Kartini. S.Pd@N#-%Bahasa Inggris@Munaiya. S.Pd@N#-%Matematika@Rusni. S.Pd@N#-%Pendidikan Kewarganegaraan@Herdiana. S.Pd@N#-%Bahasa Indonesia@Hj. Salma. SS@N#-%Informatika@Sukma Tahir. S.Pd@N#-%Prakarya@Ariyani. S.Kom@N#-%Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@N#-%Ilmu Pengetahuan Alam@Resky Amalia Hamka. S.Pd@N#-%Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@N#-%%%%%%%%%%%%%%",
       "nilaiAmbang": "75",
@@ -1421,7 +1421,7 @@ window.SISWA_DATA = {
       "kelas": "IX.B",
       "kehadiranAmbang": "80",
       "abList": [
-        "Agu/03/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,3126460047@MUH. AKMAL",
+        "Agu/03/2026@Agu/24/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@A@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,3126460047@MUH. AKMAL",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,3126460047@MUH. AKMAL",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,3126460047@MUH. AKMAL",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,3126460047@MUH. AKMAL",
@@ -6084,7 +6084,7 @@ window.SISWA_DATA = {
     "0114473272": {
       "nisn": "0114473272",
       "password": "",
-      "rawSchedule": "08.10 - 10.10@Ilmu Pengetahuan Sosial@Kartini. S.Pd@*#10.40 - 12.40@Bahasa Inggris@Munaiya. S.Pd@*#######",
+      "rawSchedule": "08.10 - 10.10@Ilmu Pengetahuan Sosial@Kartini. S.Pd@/n#10.40 - 12.40@Bahasa Inggris@Munaiya. S.Pd@*#######",
       "rawAttendanceData": "Ilmu Pengetahuan Sosial@Kartini. S.Pd@1@0@0@0@0@0#Bahasa Inggris@Munaiya. S.Pd@0@0@0@0@0@0#Matematika@Rusni. S.Pd@0@0@0@0@0@0#Pendidikan Kewarganegaraan@Herdiana. S.Pd@0@0@0@0@0@0#Bahasa Indonesia@Hj. Salma. SS@0@0@0@0@0@0#Informatika@Sukma Tahir. S.Pd@0@0@0@0@0@0#Prakarya@Ariyani. S.Kom@0@0@0@0@0@0#Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Alam@Resky Amalia Hamka. S.Pd@0@0@0@0@0@0#Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@0@0@0@0@0@0##############",
       "rawAssessmentData": "Ilmu Pengetahuan Sosial@Kartini. S.Pd@0@0@0@0@0@0#Bahasa Inggris@Munaiya. S.Pd@0@0@0@0@0@0#Matematika@Rusni. S.Pd@0@0@0@0@0@0#Pendidikan Kewarganegaraan@Herdiana. S.Pd@0@0@0@0@0@0#Bahasa Indonesia@Hj. Salma. SS@0@0@0@0@0@0#Informatika@Sukma Tahir. S.Pd@0@0@0@0@0@0#Prakarya@Ariyani. S.Kom@0@0@0@0@0@0#Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Alam@Resky Amalia Hamka. S.Pd@0@0@0@0@0@0#Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@0@0@0@0@0@0##############",
       "rawNotesData": "Ilmu Pengetahuan Sosial@Kartini. S.Pd@N#-%Bahasa Inggris@Munaiya. S.Pd@N#-%Matematika@Rusni. S.Pd@N#-%Pendidikan Kewarganegaraan@Herdiana. S.Pd@N#-%Bahasa Indonesia@Hj. Salma. SS@N#-%Informatika@Sukma Tahir. S.Pd@N#-%Prakarya@Ariyani. S.Kom@N#-%Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@N#-%Ilmu Pengetahuan Alam@Resky Amalia Hamka. S.Pd@N#-%Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@N#-%%%%%%%%%%%%%%",
@@ -6093,7 +6093,7 @@ window.SISWA_DATA = {
       "kelas": "IX.B",
       "kehadiranAmbang": "80",
       "abList": [
-        "Agu/03/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0114473272@AMMAT ADIYA PUTRA",
+        "Agu/03/2026@Agu/24/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@/n@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0114473272@AMMAT ADIYA PUTRA",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0114473272@AMMAT ADIYA PUTRA",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0114473272@AMMAT ADIYA PUTRA",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0114473272@AMMAT ADIYA PUTRA",
@@ -6148,7 +6148,7 @@ window.SISWA_DATA = {
     "0113190260": {
       "nisn": "0113190260",
       "password": "",
-      "rawSchedule": "08.10 - 10.10@Ilmu Pengetahuan Sosial@Kartini. S.Pd@*#10.40 - 12.40@Bahasa Inggris@Munaiya. S.Pd@*#######",
+      "rawSchedule": "08.10 - 10.10@Ilmu Pengetahuan Sosial@Kartini. S.Pd@/n#10.40 - 12.40@Bahasa Inggris@Munaiya. S.Pd@*#######",
       "rawAttendanceData": "Ilmu Pengetahuan Sosial@Kartini. S.Pd@1@0@0@0@0@0#Bahasa Inggris@Munaiya. S.Pd@0@0@0@0@0@0#Matematika@Rusni. S.Pd@0@0@0@0@0@0#Pendidikan Kewarganegaraan@Herdiana. S.Pd@0@0@0@0@0@0#Bahasa Indonesia@Hj. Salma. SS@0@0@0@0@0@0#Informatika@Sukma Tahir. S.Pd@0@0@0@0@0@0#Prakarya@Ariyani. S.Kom@0@0@0@0@0@0#Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Alam@Resky Amalia Hamka. S.Pd@0@0@0@0@0@0#Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@0@0@0@0@0@0##############",
       "rawAssessmentData": "Ilmu Pengetahuan Sosial@Kartini. S.Pd@0@0@0@0@0@0#Bahasa Inggris@Munaiya. S.Pd@0@0@0@0@0@0#Matematika@Rusni. S.Pd@0@0@0@0@0@0#Pendidikan Kewarganegaraan@Herdiana. S.Pd@0@0@0@0@0@0#Bahasa Indonesia@Hj. Salma. SS@0@0@0@0@0@0#Informatika@Sukma Tahir. S.Pd@0@0@0@0@0@0#Prakarya@Ariyani. S.Kom@0@0@0@0@0@0#Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Alam@Resky Amalia Hamka. S.Pd@0@0@0@0@0@0#Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@0@0@0@0@0@0##############",
       "rawNotesData": "Ilmu Pengetahuan Sosial@Kartini. S.Pd@N#-%Bahasa Inggris@Munaiya. S.Pd@N#-%Matematika@Rusni. S.Pd@N#-%Pendidikan Kewarganegaraan@Herdiana. S.Pd@N#-%Bahasa Indonesia@Hj. Salma. SS@N#-%Informatika@Sukma Tahir. S.Pd@N#-%Prakarya@Ariyani. S.Kom@N#-%Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@N#-%Ilmu Pengetahuan Alam@Resky Amalia Hamka. S.Pd@N#-%Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@N#-%%%%%%%%%%%%%%",
@@ -6157,7 +6157,7 @@ window.SISWA_DATA = {
       "kelas": "IX.B",
       "kehadiranAmbang": "80",
       "abList": [
-        "Agu/03/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0113190260@ANUGRAH",
+        "Agu/03/2026@Agu/24/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@/n@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0113190260@ANUGRAH",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0113190260@ANUGRAH",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0113190260@ANUGRAH",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0113190260@ANUGRAH",
@@ -6212,7 +6212,7 @@ window.SISWA_DATA = {
     "0118257000": {
       "nisn": "0118257000",
       "password": "",
-      "rawSchedule": "08.10 - 10.10@Ilmu Pengetahuan Sosial@Kartini. S.Pd@*#10.40 - 12.40@Bahasa Inggris@Munaiya. S.Pd@*#######",
+      "rawSchedule": "08.10 - 10.10@Ilmu Pengetahuan Sosial@Kartini. S.Pd@/n#10.40 - 12.40@Bahasa Inggris@Munaiya. S.Pd@*#######",
       "rawAttendanceData": "Ilmu Pengetahuan Sosial@Kartini. S.Pd@1@0@0@0@0@0#Bahasa Inggris@Munaiya. S.Pd@0@0@0@0@0@0#Matematika@Rusni. S.Pd@0@0@0@0@0@0#Pendidikan Kewarganegaraan@Herdiana. S.Pd@0@0@0@0@0@0#Bahasa Indonesia@Hj. Salma. SS@0@0@0@0@0@0#Informatika@Sukma Tahir. S.Pd@0@0@0@0@0@0#Prakarya@Ariyani. S.Kom@0@0@0@0@0@0#Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Alam@Resky Amalia Hamka. S.Pd@0@0@0@0@0@0#Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@0@0@0@0@0@0##############",
       "rawAssessmentData": "Ilmu Pengetahuan Sosial@Kartini. S.Pd@0@0@0@0@0@0#Bahasa Inggris@Munaiya. S.Pd@0@0@0@0@0@0#Matematika@Rusni. S.Pd@0@0@0@0@0@0#Pendidikan Kewarganegaraan@Herdiana. S.Pd@0@0@0@0@0@0#Bahasa Indonesia@Hj. Salma. SS@0@0@0@0@0@0#Informatika@Sukma Tahir. S.Pd@0@0@0@0@0@0#Prakarya@Ariyani. S.Kom@0@0@0@0@0@0#Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Alam@Resky Amalia Hamka. S.Pd@0@0@0@0@0@0#Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@0@0@0@0@0@0##############",
       "rawNotesData": "Ilmu Pengetahuan Sosial@Kartini. S.Pd@N#-%Bahasa Inggris@Munaiya. S.Pd@N#-%Matematika@Rusni. S.Pd@N#-%Pendidikan Kewarganegaraan@Herdiana. S.Pd@N#-%Bahasa Indonesia@Hj. Salma. SS@N#-%Informatika@Sukma Tahir. S.Pd@N#-%Prakarya@Ariyani. S.Kom@N#-%Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@N#-%Ilmu Pengetahuan Alam@Resky Amalia Hamka. S.Pd@N#-%Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@N#-%%%%%%%%%%%%%%",
@@ -6221,7 +6221,7 @@ window.SISWA_DATA = {
       "kelas": "IX.B",
       "kehadiranAmbang": "80",
       "abList": [
-        "Agu/03/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0118257000@ARMAN RAMADHAN",
+        "Agu/03/2026@Agu/24/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@/n@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0118257000@ARMAN RAMADHAN",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0118257000@ARMAN RAMADHAN",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0118257000@ARMAN RAMADHAN",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0118257000@ARMAN RAMADHAN",
@@ -6276,7 +6276,7 @@ window.SISWA_DATA = {
     "0112336012": {
       "nisn": "0112336012",
       "password": "",
-      "rawSchedule": "08.10 - 10.10@Ilmu Pengetahuan Sosial@Kartini. S.Pd@*#10.40 - 12.40@Bahasa Inggris@Munaiya. S.Pd@*#######",
+      "rawSchedule": "08.10 - 10.10@Ilmu Pengetahuan Sosial@Kartini. S.Pd@/n#10.40 - 12.40@Bahasa Inggris@Munaiya. S.Pd@*#######",
       "rawAttendanceData": "Ilmu Pengetahuan Sosial@Kartini. S.Pd@1@0@0@0@0@0#Bahasa Inggris@Munaiya. S.Pd@0@0@0@0@0@0#Matematika@Rusni. S.Pd@0@0@0@0@0@0#Pendidikan Kewarganegaraan@Herdiana. S.Pd@0@0@0@0@0@0#Bahasa Indonesia@Hj. Salma. SS@0@0@0@0@0@0#Informatika@Sukma Tahir. S.Pd@0@0@0@0@0@0#Prakarya@Ariyani. S.Kom@0@0@0@0@0@0#Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Alam@Resky Amalia Hamka. S.Pd@0@0@0@0@0@0#Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@0@0@0@0@0@0##############",
       "rawAssessmentData": "Ilmu Pengetahuan Sosial@Kartini. S.Pd@0@0@0@0@0@0#Bahasa Inggris@Munaiya. S.Pd@0@0@0@0@0@0#Matematika@Rusni. S.Pd@0@0@0@0@0@0#Pendidikan Kewarganegaraan@Herdiana. S.Pd@0@0@0@0@0@0#Bahasa Indonesia@Hj. Salma. SS@0@0@0@0@0@0#Informatika@Sukma Tahir. S.Pd@0@0@0@0@0@0#Prakarya@Ariyani. S.Kom@0@0@0@0@0@0#Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Alam@Resky Amalia Hamka. S.Pd@0@0@0@0@0@0#Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@0@0@0@0@0@0##############",
       "rawNotesData": "Ilmu Pengetahuan Sosial@Kartini. S.Pd@N#-%Bahasa Inggris@Munaiya. S.Pd@N#-%Matematika@Rusni. S.Pd@N#-%Pendidikan Kewarganegaraan@Herdiana. S.Pd@N#-%Bahasa Indonesia@Hj. Salma. SS@N#-%Informatika@Sukma Tahir. S.Pd@N#-%Prakarya@Ariyani. S.Kom@N#-%Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@N#-%Ilmu Pengetahuan Alam@Resky Amalia Hamka. S.Pd@N#-%Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@N#-%%%%%%%%%%%%%%",
@@ -6285,7 +6285,7 @@ window.SISWA_DATA = {
       "kelas": "IX.B",
       "kehadiranAmbang": "80",
       "abList": [
-        "Agu/03/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0112336012@ARVIA RAYNI ASRI",
+        "Agu/03/2026@Agu/24/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@/n@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0112336012@ARVIA RAYNI ASRI",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0112336012@ARVIA RAYNI ASRI",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0112336012@ARVIA RAYNI ASRI",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0112336012@ARVIA RAYNI ASRI",
@@ -6340,7 +6340,7 @@ window.SISWA_DATA = {
     "0127055004": {
       "nisn": "0127055004",
       "password": "",
-      "rawSchedule": "08.10 - 10.10@Ilmu Pengetahuan Sosial@Kartini. S.Pd@*#10.40 - 12.40@Bahasa Inggris@Munaiya. S.Pd@*#######",
+      "rawSchedule": "08.10 - 10.10@Ilmu Pengetahuan Sosial@Kartini. S.Pd@/n#10.40 - 12.40@Bahasa Inggris@Munaiya. S.Pd@*#######",
       "rawAttendanceData": "Ilmu Pengetahuan Sosial@Kartini. S.Pd@1@0@0@0@0@0#Bahasa Inggris@Munaiya. S.Pd@0@0@0@0@0@0#Matematika@Rusni. S.Pd@0@0@0@0@0@0#Pendidikan Kewarganegaraan@Herdiana. S.Pd@0@0@0@0@0@0#Bahasa Indonesia@Hj. Salma. SS@0@0@0@0@0@0#Informatika@Sukma Tahir. S.Pd@0@0@0@0@0@0#Prakarya@Ariyani. S.Kom@0@0@0@0@0@0#Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Alam@Resky Amalia Hamka. S.Pd@0@0@0@0@0@0#Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@0@0@0@0@0@0##############",
       "rawAssessmentData": "Ilmu Pengetahuan Sosial@Kartini. S.Pd@0@0@0@0@0@0#Bahasa Inggris@Munaiya. S.Pd@0@0@0@0@0@0#Matematika@Rusni. S.Pd@0@0@0@0@0@0#Pendidikan Kewarganegaraan@Herdiana. S.Pd@0@0@0@0@0@0#Bahasa Indonesia@Hj. Salma. SS@0@0@0@0@0@0#Informatika@Sukma Tahir. S.Pd@0@0@0@0@0@0#Prakarya@Ariyani. S.Kom@0@0@0@0@0@0#Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Alam@Resky Amalia Hamka. S.Pd@0@0@0@0@0@0#Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@0@0@0@0@0@0##############",
       "rawNotesData": "Ilmu Pengetahuan Sosial@Kartini. S.Pd@N#-%Bahasa Inggris@Munaiya. S.Pd@N#-%Matematika@Rusni. S.Pd@N#-%Pendidikan Kewarganegaraan@Herdiana. S.Pd@N#-%Bahasa Indonesia@Hj. Salma. SS@N#-%Informatika@Sukma Tahir. S.Pd@N#-%Prakarya@Ariyani. S.Kom@N#-%Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@N#-%Ilmu Pengetahuan Alam@Resky Amalia Hamka. S.Pd@N#-%Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@N#-%%%%%%%%%%%%%%",
@@ -6349,7 +6349,7 @@ window.SISWA_DATA = {
       "kelas": "IX.B",
       "kehadiranAmbang": "80",
       "abList": [
-        "Agu/03/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0127055004@DWI ANGRAENI",
+        "Agu/03/2026@Agu/24/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@/n@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0127055004@DWI ANGRAENI",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0127055004@DWI ANGRAENI",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0127055004@DWI ANGRAENI",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0127055004@DWI ANGRAENI",
@@ -6404,8 +6404,8 @@ window.SISWA_DATA = {
     "0106177139": {
       "nisn": "0106177139",
       "password": "",
-      "rawSchedule": "08.10 - 10.10@Ilmu Pengetahuan Sosial@Kartini. S.Pd@*#10.40 - 12.40@Bahasa Inggris@Munaiya. S.Pd@*#######",
-      "rawAttendanceData": "Ilmu Pengetahuan Sosial@Kartini. S.Pd@1@0@0@0@0@0#Bahasa Inggris@Munaiya. S.Pd@0@0@0@0@0@0#Matematika@Rusni. S.Pd@0@0@0@0@0@0#Pendidikan Kewarganegaraan@Herdiana. S.Pd@0@0@0@0@0@0#Bahasa Indonesia@Hj. Salma. SS@0@0@0@0@0@0#Informatika@Sukma Tahir. S.Pd@0@0@0@0@0@0#Prakarya@Ariyani. S.Kom@0@0@0@0@0@0#Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Alam@Resky Amalia Hamka. S.Pd@0@0@0@0@0@0#Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@0@0@0@0@0@0##############",
+      "rawSchedule": "08.10 - 10.10@Ilmu Pengetahuan Sosial@Kartini. S.Pd@I#10.40 - 12.40@Bahasa Inggris@Munaiya. S.Pd@*#######",
+      "rawAttendanceData": "Ilmu Pengetahuan Sosial@Kartini. S.Pd@1@0@1@0@0@0#Bahasa Inggris@Munaiya. S.Pd@0@0@0@0@0@0#Matematika@Rusni. S.Pd@0@0@0@0@0@0#Pendidikan Kewarganegaraan@Herdiana. S.Pd@0@0@0@0@0@0#Bahasa Indonesia@Hj. Salma. SS@0@0@0@0@0@0#Informatika@Sukma Tahir. S.Pd@0@0@0@0@0@0#Prakarya@Ariyani. S.Kom@0@0@0@0@0@0#Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Alam@Resky Amalia Hamka. S.Pd@0@0@0@0@0@0#Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@0@0@0@0@0@0##############",
       "rawAssessmentData": "Ilmu Pengetahuan Sosial@Kartini. S.Pd@0@0@0@0@0@0#Bahasa Inggris@Munaiya. S.Pd@0@0@0@0@0@0#Matematika@Rusni. S.Pd@0@0@0@0@0@0#Pendidikan Kewarganegaraan@Herdiana. S.Pd@0@0@0@0@0@0#Bahasa Indonesia@Hj. Salma. SS@0@0@0@0@0@0#Informatika@Sukma Tahir. S.Pd@0@0@0@0@0@0#Prakarya@Ariyani. S.Kom@0@0@0@0@0@0#Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Alam@Resky Amalia Hamka. S.Pd@0@0@0@0@0@0#Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@0@0@0@0@0@0##############",
       "rawNotesData": "Ilmu Pengetahuan Sosial@Kartini. S.Pd@N#-%Bahasa Inggris@Munaiya. S.Pd@N#-%Matematika@Rusni. S.Pd@N#-%Pendidikan Kewarganegaraan@Herdiana. S.Pd@N#-%Bahasa Indonesia@Hj. Salma. SS@N#-%Informatika@Sukma Tahir. S.Pd@N#-%Prakarya@Ariyani. S.Kom@N#-%Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@N#-%Ilmu Pengetahuan Alam@Resky Amalia Hamka. S.Pd@N#-%Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@N#-%%%%%%%%%%%%%%",
       "nilaiAmbang": "75",
@@ -6413,7 +6413,7 @@ window.SISWA_DATA = {
       "kelas": "IX.B",
       "kehadiranAmbang": "80",
       "abList": [
-        "Agu/03/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0106177139@FANI",
+        "Agu/03/2026@Agu/24/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@I@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0106177139@FANI",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0106177139@FANI",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0106177139@FANI",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0106177139@FANI",
@@ -6468,7 +6468,7 @@ window.SISWA_DATA = {
     "0138124645": {
       "nisn": "0138124645",
       "password": "",
-      "rawSchedule": "08.10 - 10.10@Ilmu Pengetahuan Sosial@Kartini. S.Pd@*#10.40 - 12.40@Bahasa Inggris@Munaiya. S.Pd@*#######",
+      "rawSchedule": "08.10 - 10.10@Ilmu Pengetahuan Sosial@Kartini. S.Pd@/n#10.40 - 12.40@Bahasa Inggris@Munaiya. S.Pd@*#######",
       "rawAttendanceData": "Ilmu Pengetahuan Sosial@Kartini. S.Pd@1@0@0@0@0@0#Bahasa Inggris@Munaiya. S.Pd@0@0@0@0@0@0#Matematika@Rusni. S.Pd@0@0@0@0@0@0#Pendidikan Kewarganegaraan@Herdiana. S.Pd@0@0@0@0@0@0#Bahasa Indonesia@Hj. Salma. SS@0@0@0@0@0@0#Informatika@Sukma Tahir. S.Pd@0@0@0@0@0@0#Prakarya@Ariyani. S.Kom@0@0@0@0@0@0#Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Alam@Resky Amalia Hamka. S.Pd@0@0@0@0@0@0#Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@0@0@0@0@0@0##############",
       "rawAssessmentData": "Ilmu Pengetahuan Sosial@Kartini. S.Pd@0@0@0@0@0@0#Bahasa Inggris@Munaiya. S.Pd@0@0@0@0@0@0#Matematika@Rusni. S.Pd@0@0@0@0@0@0#Pendidikan Kewarganegaraan@Herdiana. S.Pd@0@0@0@0@0@0#Bahasa Indonesia@Hj. Salma. SS@0@0@0@0@0@0#Informatika@Sukma Tahir. S.Pd@0@0@0@0@0@0#Prakarya@Ariyani. S.Kom@0@0@0@0@0@0#Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Alam@Resky Amalia Hamka. S.Pd@0@0@0@0@0@0#Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@0@0@0@0@0@0##############",
       "rawNotesData": "Ilmu Pengetahuan Sosial@Kartini. S.Pd@N#-%Bahasa Inggris@Munaiya. S.Pd@N#-%Matematika@Rusni. S.Pd@N#-%Pendidikan Kewarganegaraan@Herdiana. S.Pd@N#-%Bahasa Indonesia@Hj. Salma. SS@N#-%Informatika@Sukma Tahir. S.Pd@N#-%Prakarya@Ariyani. S.Kom@N#-%Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@N#-%Ilmu Pengetahuan Alam@Resky Amalia Hamka. S.Pd@N#-%Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@N#-%%%%%%%%%%%%%%",
@@ -6477,7 +6477,7 @@ window.SISWA_DATA = {
       "kelas": "IX.B",
       "kehadiranAmbang": "80",
       "abList": [
-        "Agu/03/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0138124645@IRWAN WAHYU",
+        "Agu/03/2026@Agu/24/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@/n@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0138124645@IRWAN WAHYU",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0138124645@IRWAN WAHYU",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0138124645@IRWAN WAHYU",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0138124645@IRWAN WAHYU",
@@ -6532,7 +6532,7 @@ window.SISWA_DATA = {
     "0116595416": {
       "nisn": "0116595416",
       "password": "",
-      "rawSchedule": "08.10 - 10.10@Ilmu Pengetahuan Sosial@Kartini. S.Pd@*#10.40 - 12.40@Bahasa Inggris@Munaiya. S.Pd@*#######",
+      "rawSchedule": "08.10 - 10.10@Ilmu Pengetahuan Sosial@Kartini. S.Pd@/n#10.40 - 12.40@Bahasa Inggris@Munaiya. S.Pd@*#######",
       "rawAttendanceData": "Ilmu Pengetahuan Sosial@Kartini. S.Pd@1@0@0@0@0@0#Bahasa Inggris@Munaiya. S.Pd@0@0@0@0@0@0#Matematika@Rusni. S.Pd@0@0@0@0@0@0#Pendidikan Kewarganegaraan@Herdiana. S.Pd@0@0@0@0@0@0#Bahasa Indonesia@Hj. Salma. SS@0@0@0@0@0@0#Informatika@Sukma Tahir. S.Pd@0@0@0@0@0@0#Prakarya@Ariyani. S.Kom@0@0@0@0@0@0#Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Alam@Resky Amalia Hamka. S.Pd@0@0@0@0@0@0#Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@0@0@0@0@0@0##############",
       "rawAssessmentData": "Ilmu Pengetahuan Sosial@Kartini. S.Pd@0@0@0@0@0@0#Bahasa Inggris@Munaiya. S.Pd@0@0@0@0@0@0#Matematika@Rusni. S.Pd@0@0@0@0@0@0#Pendidikan Kewarganegaraan@Herdiana. S.Pd@0@0@0@0@0@0#Bahasa Indonesia@Hj. Salma. SS@0@0@0@0@0@0#Informatika@Sukma Tahir. S.Pd@0@0@0@0@0@0#Prakarya@Ariyani. S.Kom@0@0@0@0@0@0#Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Alam@Resky Amalia Hamka. S.Pd@0@0@0@0@0@0#Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@0@0@0@0@0@0##############",
       "rawNotesData": "Ilmu Pengetahuan Sosial@Kartini. S.Pd@N#-%Bahasa Inggris@Munaiya. S.Pd@N#-%Matematika@Rusni. S.Pd@N#-%Pendidikan Kewarganegaraan@Herdiana. S.Pd@N#-%Bahasa Indonesia@Hj. Salma. SS@N#-%Informatika@Sukma Tahir. S.Pd@N#-%Prakarya@Ariyani. S.Kom@N#-%Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@N#-%Ilmu Pengetahuan Alam@Resky Amalia Hamka. S.Pd@N#-%Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@N#-%%%%%%%%%%%%%%",
@@ -6541,7 +6541,7 @@ window.SISWA_DATA = {
       "kelas": "IX.B",
       "kehadiranAmbang": "80",
       "abList": [
-        "Agu/03/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0116595416@JUMRIANA",
+        "Agu/03/2026@Agu/24/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@/n@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0116595416@JUMRIANA",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0116595416@JUMRIANA",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0116595416@JUMRIANA",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0116595416@JUMRIANA",
@@ -6596,7 +6596,7 @@ window.SISWA_DATA = {
     "0116887461": {
       "nisn": "0116887461",
       "password": "",
-      "rawSchedule": "08.10 - 10.10@Ilmu Pengetahuan Sosial@Kartini. S.Pd@*#10.40 - 12.40@Bahasa Inggris@Munaiya. S.Pd@*#######",
+      "rawSchedule": "08.10 - 10.10@Ilmu Pengetahuan Sosial@Kartini. S.Pd@/n#10.40 - 12.40@Bahasa Inggris@Munaiya. S.Pd@*#######",
       "rawAttendanceData": "Ilmu Pengetahuan Sosial@Kartini. S.Pd@1@0@0@0@0@0#Bahasa Inggris@Munaiya. S.Pd@0@0@0@0@0@0#Matematika@Rusni. S.Pd@0@0@0@0@0@0#Pendidikan Kewarganegaraan@Herdiana. S.Pd@0@0@0@0@0@0#Bahasa Indonesia@Hj. Salma. SS@0@0@0@0@0@0#Informatika@Sukma Tahir. S.Pd@0@0@0@0@0@0#Prakarya@Ariyani. S.Kom@0@0@0@0@0@0#Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Alam@Resky Amalia Hamka. S.Pd@0@0@0@0@0@0#Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@0@0@0@0@0@0##############",
       "rawAssessmentData": "Ilmu Pengetahuan Sosial@Kartini. S.Pd@0@0@0@0@0@0#Bahasa Inggris@Munaiya. S.Pd@0@0@0@0@0@0#Matematika@Rusni. S.Pd@0@0@0@0@0@0#Pendidikan Kewarganegaraan@Herdiana. S.Pd@0@0@0@0@0@0#Bahasa Indonesia@Hj. Salma. SS@0@0@0@0@0@0#Informatika@Sukma Tahir. S.Pd@0@0@0@0@0@0#Prakarya@Ariyani. S.Kom@0@0@0@0@0@0#Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Alam@Resky Amalia Hamka. S.Pd@0@0@0@0@0@0#Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@0@0@0@0@0@0##############",
       "rawNotesData": "Ilmu Pengetahuan Sosial@Kartini. S.Pd@N#-%Bahasa Inggris@Munaiya. S.Pd@N#-%Matematika@Rusni. S.Pd@N#-%Pendidikan Kewarganegaraan@Herdiana. S.Pd@N#-%Bahasa Indonesia@Hj. Salma. SS@N#-%Informatika@Sukma Tahir. S.Pd@N#-%Prakarya@Ariyani. S.Kom@N#-%Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@N#-%Ilmu Pengetahuan Alam@Resky Amalia Hamka. S.Pd@N#-%Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@N#-%%%%%%%%%%%%%%",
@@ -6605,7 +6605,7 @@ window.SISWA_DATA = {
       "kelas": "IX.B",
       "kehadiranAmbang": "80",
       "abList": [
-        "Agu/03/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0116887461@MAGFIRAH",
+        "Agu/03/2026@Agu/24/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@/n@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0116887461@MAGFIRAH",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0116887461@MAGFIRAH",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0116887461@MAGFIRAH",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0116887461@MAGFIRAH",
@@ -6660,7 +6660,7 @@ window.SISWA_DATA = {
     "0127595442": {
       "nisn": "0127595442",
       "password": "",
-      "rawSchedule": "08.10 - 10.10@Ilmu Pengetahuan Sosial@Kartini. S.Pd@*#10.40 - 12.40@Bahasa Inggris@Munaiya. S.Pd@*#######",
+      "rawSchedule": "08.10 - 10.10@Ilmu Pengetahuan Sosial@Kartini. S.Pd@/n#10.40 - 12.40@Bahasa Inggris@Munaiya. S.Pd@*#######",
       "rawAttendanceData": "Ilmu Pengetahuan Sosial@Kartini. S.Pd@1@0@0@0@0@0#Bahasa Inggris@Munaiya. S.Pd@0@0@0@0@0@0#Matematika@Rusni. S.Pd@0@0@0@0@0@0#Pendidikan Kewarganegaraan@Herdiana. S.Pd@0@0@0@0@0@0#Bahasa Indonesia@Hj. Salma. SS@0@0@0@0@0@0#Informatika@Sukma Tahir. S.Pd@0@0@0@0@0@0#Prakarya@Ariyani. S.Kom@0@0@0@0@0@0#Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Alam@Resky Amalia Hamka. S.Pd@0@0@0@0@0@0#Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@0@0@0@0@0@0##############",
       "rawAssessmentData": "Ilmu Pengetahuan Sosial@Kartini. S.Pd@0@0@0@0@0@0#Bahasa Inggris@Munaiya. S.Pd@0@0@0@0@0@0#Matematika@Rusni. S.Pd@0@0@0@0@0@0#Pendidikan Kewarganegaraan@Herdiana. S.Pd@0@0@0@0@0@0#Bahasa Indonesia@Hj. Salma. SS@0@0@0@0@0@0#Informatika@Sukma Tahir. S.Pd@0@0@0@0@0@0#Prakarya@Ariyani. S.Kom@0@0@0@0@0@0#Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Alam@Resky Amalia Hamka. S.Pd@0@0@0@0@0@0#Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@0@0@0@0@0@0##############",
       "rawNotesData": "Ilmu Pengetahuan Sosial@Kartini. S.Pd@N#-%Bahasa Inggris@Munaiya. S.Pd@N#-%Matematika@Rusni. S.Pd@N#-%Pendidikan Kewarganegaraan@Herdiana. S.Pd@N#-%Bahasa Indonesia@Hj. Salma. SS@N#-%Informatika@Sukma Tahir. S.Pd@N#-%Prakarya@Ariyani. S.Kom@N#-%Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@N#-%Ilmu Pengetahuan Alam@Resky Amalia Hamka. S.Pd@N#-%Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@N#-%%%%%%%%%%%%%%",
@@ -6669,7 +6669,7 @@ window.SISWA_DATA = {
       "kelas": "IX.B",
       "kehadiranAmbang": "80",
       "abList": [
-        "Agu/03/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0127595442@MARIANI",
+        "Agu/03/2026@Agu/24/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@/n@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0127595442@MARIANI",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0127595442@MARIANI",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0127595442@MARIANI",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0127595442@MARIANI",
@@ -6724,8 +6724,8 @@ window.SISWA_DATA = {
     "0122612944": {
       "nisn": "0122612944",
       "password": "",
-      "rawSchedule": "08.10 - 10.10@Ilmu Pengetahuan Sosial@Kartini. S.Pd@*#10.40 - 12.40@Bahasa Inggris@Munaiya. S.Pd@*#######",
-      "rawAttendanceData": "Ilmu Pengetahuan Sosial@Kartini. S.Pd@1@0@0@0@0@0#Bahasa Inggris@Munaiya. S.Pd@0@0@0@0@0@0#Matematika@Rusni. S.Pd@0@0@0@0@0@0#Pendidikan Kewarganegaraan@Herdiana. S.Pd@0@0@0@0@0@0#Bahasa Indonesia@Hj. Salma. SS@0@0@0@0@0@0#Informatika@Sukma Tahir. S.Pd@0@0@0@0@0@0#Prakarya@Ariyani. S.Kom@0@0@0@0@0@0#Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Alam@Resky Amalia Hamka. S.Pd@0@0@0@0@0@0#Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@0@0@0@0@0@0##############",
+      "rawSchedule": "08.10 - 10.10@Ilmu Pengetahuan Sosial@Kartini. S.Pd@A#10.40 - 12.40@Bahasa Inggris@Munaiya. S.Pd@*#######",
+      "rawAttendanceData": "Ilmu Pengetahuan Sosial@Kartini. S.Pd@1@0@0@0@1@0#Bahasa Inggris@Munaiya. S.Pd@0@0@0@0@0@0#Matematika@Rusni. S.Pd@0@0@0@0@0@0#Pendidikan Kewarganegaraan@Herdiana. S.Pd@0@0@0@0@0@0#Bahasa Indonesia@Hj. Salma. SS@0@0@0@0@0@0#Informatika@Sukma Tahir. S.Pd@0@0@0@0@0@0#Prakarya@Ariyani. S.Kom@0@0@0@0@0@0#Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Alam@Resky Amalia Hamka. S.Pd@0@0@0@0@0@0#Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@0@0@0@0@0@0##############",
       "rawAssessmentData": "Ilmu Pengetahuan Sosial@Kartini. S.Pd@0@0@0@0@0@0#Bahasa Inggris@Munaiya. S.Pd@0@0@0@0@0@0#Matematika@Rusni. S.Pd@0@0@0@0@0@0#Pendidikan Kewarganegaraan@Herdiana. S.Pd@0@0@0@0@0@0#Bahasa Indonesia@Hj. Salma. SS@0@0@0@0@0@0#Informatika@Sukma Tahir. S.Pd@0@0@0@0@0@0#Prakarya@Ariyani. S.Kom@0@0@0@0@0@0#Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Alam@Resky Amalia Hamka. S.Pd@0@0@0@0@0@0#Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@0@0@0@0@0@0##############",
       "rawNotesData": "Ilmu Pengetahuan Sosial@Kartini. S.Pd@N#-%Bahasa Inggris@Munaiya. S.Pd@N#-%Matematika@Rusni. S.Pd@N#-%Pendidikan Kewarganegaraan@Herdiana. S.Pd@N#-%Bahasa Indonesia@Hj. Salma. SS@N#-%Informatika@Sukma Tahir. S.Pd@N#-%Prakarya@Ariyani. S.Kom@N#-%Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@N#-%Ilmu Pengetahuan Alam@Resky Amalia Hamka. S.Pd@N#-%Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@N#-%%%%%%%%%%%%%%",
       "nilaiAmbang": "75",
@@ -6733,7 +6733,7 @@ window.SISWA_DATA = {
       "kelas": "IX.B",
       "kehadiranAmbang": "80",
       "abList": [
-        "Agu/03/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0122612944@MUH. ERWIN",
+        "Agu/03/2026@Agu/24/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@A@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0122612944@MUH. ERWIN",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0122612944@MUH. ERWIN",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0122612944@MUH. ERWIN",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0122612944@MUH. ERWIN",
@@ -6788,8 +6788,8 @@ window.SISWA_DATA = {
     "0125361102": {
       "nisn": "0125361102",
       "password": "",
-      "rawSchedule": "08.10 - 10.10@Ilmu Pengetahuan Sosial@Kartini. S.Pd@*#10.40 - 12.40@Bahasa Inggris@Munaiya. S.Pd@*#######",
-      "rawAttendanceData": "Ilmu Pengetahuan Sosial@Kartini. S.Pd@1@0@0@0@0@0#Bahasa Inggris@Munaiya. S.Pd@0@0@0@0@0@0#Matematika@Rusni. S.Pd@0@0@0@0@0@0#Pendidikan Kewarganegaraan@Herdiana. S.Pd@0@0@0@0@0@0#Bahasa Indonesia@Hj. Salma. SS@0@0@0@0@0@0#Informatika@Sukma Tahir. S.Pd@0@0@0@0@0@0#Prakarya@Ariyani. S.Kom@0@0@0@0@0@0#Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Alam@Resky Amalia Hamka. S.Pd@0@0@0@0@0@0#Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@0@0@0@0@0@0##############",
+      "rawSchedule": "08.10 - 10.10@Ilmu Pengetahuan Sosial@Kartini. S.Pd@A#10.40 - 12.40@Bahasa Inggris@Munaiya. S.Pd@*#######",
+      "rawAttendanceData": "Ilmu Pengetahuan Sosial@Kartini. S.Pd@1@0@0@0@1@0#Bahasa Inggris@Munaiya. S.Pd@0@0@0@0@0@0#Matematika@Rusni. S.Pd@0@0@0@0@0@0#Pendidikan Kewarganegaraan@Herdiana. S.Pd@0@0@0@0@0@0#Bahasa Indonesia@Hj. Salma. SS@0@0@0@0@0@0#Informatika@Sukma Tahir. S.Pd@0@0@0@0@0@0#Prakarya@Ariyani. S.Kom@0@0@0@0@0@0#Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Alam@Resky Amalia Hamka. S.Pd@0@0@0@0@0@0#Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@0@0@0@0@0@0##############",
       "rawAssessmentData": "Ilmu Pengetahuan Sosial@Kartini. S.Pd@0@0@0@0@0@0#Bahasa Inggris@Munaiya. S.Pd@0@0@0@0@0@0#Matematika@Rusni. S.Pd@0@0@0@0@0@0#Pendidikan Kewarganegaraan@Herdiana. S.Pd@0@0@0@0@0@0#Bahasa Indonesia@Hj. Salma. SS@0@0@0@0@0@0#Informatika@Sukma Tahir. S.Pd@0@0@0@0@0@0#Prakarya@Ariyani. S.Kom@0@0@0@0@0@0#Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Alam@Resky Amalia Hamka. S.Pd@0@0@0@0@0@0#Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@0@0@0@0@0@0##############",
       "rawNotesData": "Ilmu Pengetahuan Sosial@Kartini. S.Pd@N#-%Bahasa Inggris@Munaiya. S.Pd@N#-%Matematika@Rusni. S.Pd@N#-%Pendidikan Kewarganegaraan@Herdiana. S.Pd@N#-%Bahasa Indonesia@Hj. Salma. SS@N#-%Informatika@Sukma Tahir. S.Pd@N#-%Prakarya@Ariyani. S.Kom@N#-%Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@N#-%Ilmu Pengetahuan Alam@Resky Amalia Hamka. S.Pd@N#-%Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@N#-%%%%%%%%%%%%%%",
       "nilaiAmbang": "75",
@@ -6797,7 +6797,7 @@ window.SISWA_DATA = {
       "kelas": "IX.B",
       "kehadiranAmbang": "80",
       "abList": [
-        "Agu/03/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0125361102@MUHAMMAD AKBAR",
+        "Agu/03/2026@Agu/24/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@A@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0125361102@MUHAMMAD AKBAR",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0125361102@MUHAMMAD AKBAR",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0125361102@MUHAMMAD AKBAR",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0125361102@MUHAMMAD AKBAR",
@@ -6852,7 +6852,7 @@ window.SISWA_DATA = {
     "0118989853": {
       "nisn": "0118989853",
       "password": "",
-      "rawSchedule": "08.10 - 10.10@Ilmu Pengetahuan Sosial@Kartini. S.Pd@*#10.40 - 12.40@Bahasa Inggris@Munaiya. S.Pd@*#######",
+      "rawSchedule": "08.10 - 10.10@Ilmu Pengetahuan Sosial@Kartini. S.Pd@/n#10.40 - 12.40@Bahasa Inggris@Munaiya. S.Pd@*#######",
       "rawAttendanceData": "Ilmu Pengetahuan Sosial@Kartini. S.Pd@1@0@0@0@0@0#Bahasa Inggris@Munaiya. S.Pd@0@0@0@0@0@0#Matematika@Rusni. S.Pd@0@0@0@0@0@0#Pendidikan Kewarganegaraan@Herdiana. S.Pd@0@0@0@0@0@0#Bahasa Indonesia@Hj. Salma. SS@0@0@0@0@0@0#Informatika@Sukma Tahir. S.Pd@0@0@0@0@0@0#Prakarya@Ariyani. S.Kom@0@0@0@0@0@0#Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Alam@Resky Amalia Hamka. S.Pd@0@0@0@0@0@0#Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@0@0@0@0@0@0##############",
       "rawAssessmentData": "Ilmu Pengetahuan Sosial@Kartini. S.Pd@0@0@0@0@0@0#Bahasa Inggris@Munaiya. S.Pd@0@0@0@0@0@0#Matematika@Rusni. S.Pd@0@0@0@0@0@0#Pendidikan Kewarganegaraan@Herdiana. S.Pd@0@0@0@0@0@0#Bahasa Indonesia@Hj. Salma. SS@0@0@0@0@0@0#Informatika@Sukma Tahir. S.Pd@0@0@0@0@0@0#Prakarya@Ariyani. S.Kom@0@0@0@0@0@0#Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Alam@Resky Amalia Hamka. S.Pd@0@0@0@0@0@0#Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@0@0@0@0@0@0##############",
       "rawNotesData": "Ilmu Pengetahuan Sosial@Kartini. S.Pd@N#-%Bahasa Inggris@Munaiya. S.Pd@N#-%Matematika@Rusni. S.Pd@N#-%Pendidikan Kewarganegaraan@Herdiana. S.Pd@N#-%Bahasa Indonesia@Hj. Salma. SS@N#-%Informatika@Sukma Tahir. S.Pd@N#-%Prakarya@Ariyani. S.Kom@N#-%Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@N#-%Ilmu Pengetahuan Alam@Resky Amalia Hamka. S.Pd@N#-%Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@N#-%%%%%%%%%%%%%%",
@@ -6861,7 +6861,7 @@ window.SISWA_DATA = {
       "kelas": "IX.B",
       "kehadiranAmbang": "80",
       "abList": [
-        "Agu/03/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0118989853@MUHAMMAD DIMAS",
+        "Agu/03/2026@Agu/24/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@/n@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0118989853@MUHAMMAD DIMAS",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0118989853@MUHAMMAD DIMAS",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0118989853@MUHAMMAD DIMAS",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0118989853@MUHAMMAD DIMAS",
@@ -6916,7 +6916,7 @@ window.SISWA_DATA = {
     "0122321231": {
       "nisn": "0122321231",
       "password": "",
-      "rawSchedule": "08.10 - 10.10@Ilmu Pengetahuan Sosial@Kartini. S.Pd@*#10.40 - 12.40@Bahasa Inggris@Munaiya. S.Pd@*#######",
+      "rawSchedule": "08.10 - 10.10@Ilmu Pengetahuan Sosial@Kartini. S.Pd@/n#10.40 - 12.40@Bahasa Inggris@Munaiya. S.Pd@*#######",
       "rawAttendanceData": "Ilmu Pengetahuan Sosial@Kartini. S.Pd@1@0@0@0@0@0#Bahasa Inggris@Munaiya. S.Pd@0@0@0@0@0@0#Matematika@Rusni. S.Pd@0@0@0@0@0@0#Pendidikan Kewarganegaraan@Herdiana. S.Pd@0@0@0@0@0@0#Bahasa Indonesia@Hj. Salma. SS@0@0@0@0@0@0#Informatika@Sukma Tahir. S.Pd@0@0@0@0@0@0#Prakarya@Ariyani. S.Kom@0@0@0@0@0@0#Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Alam@Resky Amalia Hamka. S.Pd@0@0@0@0@0@0#Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@0@0@0@0@0@0##############",
       "rawAssessmentData": "Ilmu Pengetahuan Sosial@Kartini. S.Pd@0@0@0@0@0@0#Bahasa Inggris@Munaiya. S.Pd@0@0@0@0@0@0#Matematika@Rusni. S.Pd@0@0@0@0@0@0#Pendidikan Kewarganegaraan@Herdiana. S.Pd@0@0@0@0@0@0#Bahasa Indonesia@Hj. Salma. SS@0@0@0@0@0@0#Informatika@Sukma Tahir. S.Pd@0@0@0@0@0@0#Prakarya@Ariyani. S.Kom@0@0@0@0@0@0#Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Alam@Resky Amalia Hamka. S.Pd@0@0@0@0@0@0#Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@0@0@0@0@0@0##############",
       "rawNotesData": "Ilmu Pengetahuan Sosial@Kartini. S.Pd@N#-%Bahasa Inggris@Munaiya. S.Pd@N#-%Matematika@Rusni. S.Pd@N#-%Pendidikan Kewarganegaraan@Herdiana. S.Pd@N#-%Bahasa Indonesia@Hj. Salma. SS@N#-%Informatika@Sukma Tahir. S.Pd@N#-%Prakarya@Ariyani. S.Kom@N#-%Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@N#-%Ilmu Pengetahuan Alam@Resky Amalia Hamka. S.Pd@N#-%Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@N#-%%%%%%%%%%%%%%",
@@ -6925,7 +6925,7 @@ window.SISWA_DATA = {
       "kelas": "IX.B",
       "kehadiranAmbang": "80",
       "abList": [
-        "Agu/03/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0122321231@MUSAKKIR",
+        "Agu/03/2026@Agu/24/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@/n@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0122321231@MUSAKKIR",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0122321231@MUSAKKIR",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0122321231@MUSAKKIR",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0122321231@MUSAKKIR",
@@ -6980,7 +6980,7 @@ window.SISWA_DATA = {
     "0129578108": {
       "nisn": "0129578108",
       "password": "",
-      "rawSchedule": "08.10 - 10.10@Ilmu Pengetahuan Sosial@Kartini. S.Pd@*#10.40 - 12.40@Bahasa Inggris@Munaiya. S.Pd@*#######",
+      "rawSchedule": "08.10 - 10.10@Ilmu Pengetahuan Sosial@Kartini. S.Pd@/n#10.40 - 12.40@Bahasa Inggris@Munaiya. S.Pd@*#######",
       "rawAttendanceData": "Ilmu Pengetahuan Sosial@Kartini. S.Pd@1@0@0@0@0@0#Bahasa Inggris@Munaiya. S.Pd@0@0@0@0@0@0#Matematika@Rusni. S.Pd@0@0@0@0@0@0#Pendidikan Kewarganegaraan@Herdiana. S.Pd@0@0@0@0@0@0#Bahasa Indonesia@Hj. Salma. SS@0@0@0@0@0@0#Informatika@Sukma Tahir. S.Pd@0@0@0@0@0@0#Prakarya@Ariyani. S.Kom@0@0@0@0@0@0#Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Alam@Resky Amalia Hamka. S.Pd@0@0@0@0@0@0#Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@0@0@0@0@0@0##############",
       "rawAssessmentData": "Ilmu Pengetahuan Sosial@Kartini. S.Pd@0@0@0@0@0@0#Bahasa Inggris@Munaiya. S.Pd@0@0@0@0@0@0#Matematika@Rusni. S.Pd@0@0@0@0@0@0#Pendidikan Kewarganegaraan@Herdiana. S.Pd@0@0@0@0@0@0#Bahasa Indonesia@Hj. Salma. SS@0@0@0@0@0@0#Informatika@Sukma Tahir. S.Pd@0@0@0@0@0@0#Prakarya@Ariyani. S.Kom@0@0@0@0@0@0#Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Alam@Resky Amalia Hamka. S.Pd@0@0@0@0@0@0#Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@0@0@0@0@0@0##############",
       "rawNotesData": "Ilmu Pengetahuan Sosial@Kartini. S.Pd@N#-%Bahasa Inggris@Munaiya. S.Pd@N#-%Matematika@Rusni. S.Pd@N#-%Pendidikan Kewarganegaraan@Herdiana. S.Pd@N#-%Bahasa Indonesia@Hj. Salma. SS@N#-%Informatika@Sukma Tahir. S.Pd@N#-%Prakarya@Ariyani. S.Kom@N#-%Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@N#-%Ilmu Pengetahuan Alam@Resky Amalia Hamka. S.Pd@N#-%Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@N#-%%%%%%%%%%%%%%",
@@ -6989,7 +6989,7 @@ window.SISWA_DATA = {
       "kelas": "IX.B",
       "kehadiranAmbang": "80",
       "abList": [
-        "Agu/03/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0129578108@NAHDA NUR ALIA",
+        "Agu/03/2026@Agu/24/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@/n@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0129578108@NAHDA NUR ALIA",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0129578108@NAHDA NUR ALIA",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0129578108@NAHDA NUR ALIA",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0129578108@NAHDA NUR ALIA",
@@ -7044,7 +7044,7 @@ window.SISWA_DATA = {
     "0111983845": {
       "nisn": "0111983845",
       "password": "",
-      "rawSchedule": "08.10 - 10.10@Ilmu Pengetahuan Sosial@Kartini. S.Pd@*#10.40 - 12.40@Bahasa Inggris@Munaiya. S.Pd@*#######",
+      "rawSchedule": "08.10 - 10.10@Ilmu Pengetahuan Sosial@Kartini. S.Pd@/n#10.40 - 12.40@Bahasa Inggris@Munaiya. S.Pd@*#######",
       "rawAttendanceData": "Ilmu Pengetahuan Sosial@Kartini. S.Pd@1@0@0@0@0@0#Bahasa Inggris@Munaiya. S.Pd@0@0@0@0@0@0#Matematika@Rusni. S.Pd@0@0@0@0@0@0#Pendidikan Kewarganegaraan@Herdiana. S.Pd@0@0@0@0@0@0#Bahasa Indonesia@Hj. Salma. SS@0@0@0@0@0@0#Informatika@Sukma Tahir. S.Pd@0@0@0@0@0@0#Prakarya@Ariyani. S.Kom@0@0@0@0@0@0#Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Alam@Resky Amalia Hamka. S.Pd@0@0@0@0@0@0#Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@0@0@0@0@0@0##############",
       "rawAssessmentData": "Ilmu Pengetahuan Sosial@Kartini. S.Pd@0@0@0@0@0@0#Bahasa Inggris@Munaiya. S.Pd@0@0@0@0@0@0#Matematika@Rusni. S.Pd@0@0@0@0@0@0#Pendidikan Kewarganegaraan@Herdiana. S.Pd@0@0@0@0@0@0#Bahasa Indonesia@Hj. Salma. SS@0@0@0@0@0@0#Informatika@Sukma Tahir. S.Pd@0@0@0@0@0@0#Prakarya@Ariyani. S.Kom@0@0@0@0@0@0#Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Alam@Resky Amalia Hamka. S.Pd@0@0@0@0@0@0#Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@0@0@0@0@0@0##############",
       "rawNotesData": "Ilmu Pengetahuan Sosial@Kartini. S.Pd@N#-%Bahasa Inggris@Munaiya. S.Pd@N#-%Matematika@Rusni. S.Pd@N#-%Pendidikan Kewarganegaraan@Herdiana. S.Pd@N#-%Bahasa Indonesia@Hj. Salma. SS@N#-%Informatika@Sukma Tahir. S.Pd@N#-%Prakarya@Ariyani. S.Kom@N#-%Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@N#-%Ilmu Pengetahuan Alam@Resky Amalia Hamka. S.Pd@N#-%Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@N#-%%%%%%%%%%%%%%",
@@ -7053,7 +7053,7 @@ window.SISWA_DATA = {
       "kelas": "IX.B",
       "kehadiranAmbang": "80",
       "abList": [
-        "Agu/03/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0111983845@NUR MULIANI SARI",
+        "Agu/03/2026@Agu/24/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@/n@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0111983845@NUR MULIANI SARI",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0111983845@NUR MULIANI SARI",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0111983845@NUR MULIANI SARI",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0111983845@NUR MULIANI SARI",
@@ -7108,7 +7108,7 @@ window.SISWA_DATA = {
     "0119902556": {
       "nisn": "0119902556",
       "password": "",
-      "rawSchedule": "08.10 - 10.10@Ilmu Pengetahuan Sosial@Kartini. S.Pd@*#10.40 - 12.40@Bahasa Inggris@Munaiya. S.Pd@*#######",
+      "rawSchedule": "08.10 - 10.10@Ilmu Pengetahuan Sosial@Kartini. S.Pd@/n#10.40 - 12.40@Bahasa Inggris@Munaiya. S.Pd@*#######",
       "rawAttendanceData": "Ilmu Pengetahuan Sosial@Kartini. S.Pd@1@0@0@0@0@0#Bahasa Inggris@Munaiya. S.Pd@0@0@0@0@0@0#Matematika@Rusni. S.Pd@0@0@0@0@0@0#Pendidikan Kewarganegaraan@Herdiana. S.Pd@0@0@0@0@0@0#Bahasa Indonesia@Hj. Salma. SS@0@0@0@0@0@0#Informatika@Sukma Tahir. S.Pd@0@0@0@0@0@0#Prakarya@Ariyani. S.Kom@0@0@0@0@0@0#Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Alam@Resky Amalia Hamka. S.Pd@0@0@0@0@0@0#Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@0@0@0@0@0@0##############",
       "rawAssessmentData": "Ilmu Pengetahuan Sosial@Kartini. S.Pd@0@0@0@0@0@0#Bahasa Inggris@Munaiya. S.Pd@0@0@0@0@0@0#Matematika@Rusni. S.Pd@0@0@0@0@0@0#Pendidikan Kewarganegaraan@Herdiana. S.Pd@0@0@0@0@0@0#Bahasa Indonesia@Hj. Salma. SS@0@0@0@0@0@0#Informatika@Sukma Tahir. S.Pd@0@0@0@0@0@0#Prakarya@Ariyani. S.Kom@0@0@0@0@0@0#Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Alam@Resky Amalia Hamka. S.Pd@0@0@0@0@0@0#Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@0@0@0@0@0@0##############",
       "rawNotesData": "Ilmu Pengetahuan Sosial@Kartini. S.Pd@N#-%Bahasa Inggris@Munaiya. S.Pd@N#-%Matematika@Rusni. S.Pd@N#-%Pendidikan Kewarganegaraan@Herdiana. S.Pd@N#-%Bahasa Indonesia@Hj. Salma. SS@N#-%Informatika@Sukma Tahir. S.Pd@N#-%Prakarya@Ariyani. S.Kom@N#-%Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@N#-%Ilmu Pengetahuan Alam@Resky Amalia Hamka. S.Pd@N#-%Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@N#-%%%%%%%%%%%%%%",
@@ -7117,7 +7117,7 @@ window.SISWA_DATA = {
       "kelas": "IX.B",
       "kehadiranAmbang": "80",
       "abList": [
-        "Agu/03/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0119902556@PADILLA ANUGRAH PUTRI",
+        "Agu/03/2026@Agu/24/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@/n@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0119902556@PADILLA ANUGRAH PUTRI",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0119902556@PADILLA ANUGRAH PUTRI",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0119902556@PADILLA ANUGRAH PUTRI",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0119902556@PADILLA ANUGRAH PUTRI",
@@ -7172,7 +7172,7 @@ window.SISWA_DATA = {
     "0123494375": {
       "nisn": "0123494375",
       "password": "",
-      "rawSchedule": "08.10 - 10.10@Ilmu Pengetahuan Sosial@Kartini. S.Pd@*#10.40 - 12.40@Bahasa Inggris@Munaiya. S.Pd@*#######",
+      "rawSchedule": "08.10 - 10.10@Ilmu Pengetahuan Sosial@Kartini. S.Pd@/n#10.40 - 12.40@Bahasa Inggris@Munaiya. S.Pd@*#######",
       "rawAttendanceData": "Ilmu Pengetahuan Sosial@Kartini. S.Pd@1@0@0@0@0@0#Bahasa Inggris@Munaiya. S.Pd@0@0@0@0@0@0#Matematika@Rusni. S.Pd@0@0@0@0@0@0#Pendidikan Kewarganegaraan@Herdiana. S.Pd@0@0@0@0@0@0#Bahasa Indonesia@Hj. Salma. SS@0@0@0@0@0@0#Informatika@Sukma Tahir. S.Pd@0@0@0@0@0@0#Prakarya@Ariyani. S.Kom@0@0@0@0@0@0#Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Alam@Resky Amalia Hamka. S.Pd@0@0@0@0@0@0#Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@0@0@0@0@0@0##############",
       "rawAssessmentData": "Ilmu Pengetahuan Sosial@Kartini. S.Pd@0@0@0@0@0@0#Bahasa Inggris@Munaiya. S.Pd@0@0@0@0@0@0#Matematika@Rusni. S.Pd@0@0@0@0@0@0#Pendidikan Kewarganegaraan@Herdiana. S.Pd@0@0@0@0@0@0#Bahasa Indonesia@Hj. Salma. SS@0@0@0@0@0@0#Informatika@Sukma Tahir. S.Pd@0@0@0@0@0@0#Prakarya@Ariyani. S.Kom@0@0@0@0@0@0#Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Alam@Resky Amalia Hamka. S.Pd@0@0@0@0@0@0#Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@0@0@0@0@0@0##############",
       "rawNotesData": "Ilmu Pengetahuan Sosial@Kartini. S.Pd@N#-%Bahasa Inggris@Munaiya. S.Pd@N#-%Matematika@Rusni. S.Pd@N#-%Pendidikan Kewarganegaraan@Herdiana. S.Pd@N#-%Bahasa Indonesia@Hj. Salma. SS@N#-%Informatika@Sukma Tahir. S.Pd@N#-%Prakarya@Ariyani. S.Kom@N#-%Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@N#-%Ilmu Pengetahuan Alam@Resky Amalia Hamka. S.Pd@N#-%Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@N#-%%%%%%%%%%%%%%",
@@ -7181,7 +7181,7 @@ window.SISWA_DATA = {
       "kelas": "IX.B",
       "kehadiranAmbang": "80",
       "abList": [
-        "Agu/03/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0123494375@SELFIANI SAPRI",
+        "Agu/03/2026@Agu/24/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@/n@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0123494375@SELFIANI SAPRI",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0123494375@SELFIANI SAPRI",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0123494375@SELFIANI SAPRI",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0123494375@SELFIANI SAPRI",
@@ -7236,7 +7236,7 @@ window.SISWA_DATA = {
     "0114293816": {
       "nisn": "0114293816",
       "password": "",
-      "rawSchedule": "08.10 - 10.10@Ilmu Pengetahuan Sosial@Kartini. S.Pd@*#10.40 - 12.40@Bahasa Inggris@Munaiya. S.Pd@*#######",
+      "rawSchedule": "08.10 - 10.10@Ilmu Pengetahuan Sosial@Kartini. S.Pd@/n#10.40 - 12.40@Bahasa Inggris@Munaiya. S.Pd@*#######",
       "rawAttendanceData": "Ilmu Pengetahuan Sosial@Kartini. S.Pd@1@0@0@0@0@0#Bahasa Inggris@Munaiya. S.Pd@0@0@0@0@0@0#Matematika@Rusni. S.Pd@0@0@0@0@0@0#Pendidikan Kewarganegaraan@Herdiana. S.Pd@0@0@0@0@0@0#Bahasa Indonesia@Hj. Salma. SS@0@0@0@0@0@0#Informatika@Sukma Tahir. S.Pd@0@0@0@0@0@0#Prakarya@Ariyani. S.Kom@0@0@0@0@0@0#Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Alam@Resky Amalia Hamka. S.Pd@0@0@0@0@0@0#Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@0@0@0@0@0@0##############",
       "rawAssessmentData": "Ilmu Pengetahuan Sosial@Kartini. S.Pd@0@0@0@0@0@0#Bahasa Inggris@Munaiya. S.Pd@0@0@0@0@0@0#Matematika@Rusni. S.Pd@0@0@0@0@0@0#Pendidikan Kewarganegaraan@Herdiana. S.Pd@0@0@0@0@0@0#Bahasa Indonesia@Hj. Salma. SS@0@0@0@0@0@0#Informatika@Sukma Tahir. S.Pd@0@0@0@0@0@0#Prakarya@Ariyani. S.Kom@0@0@0@0@0@0#Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Alam@Resky Amalia Hamka. S.Pd@0@0@0@0@0@0#Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@0@0@0@0@0@0##############",
       "rawNotesData": "Ilmu Pengetahuan Sosial@Kartini. S.Pd@N#-%Bahasa Inggris@Munaiya. S.Pd@N#-%Matematika@Rusni. S.Pd@N#-%Pendidikan Kewarganegaraan@Herdiana. S.Pd@N#-%Bahasa Indonesia@Hj. Salma. SS@N#-%Informatika@Sukma Tahir. S.Pd@N#-%Prakarya@Ariyani. S.Kom@N#-%Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@N#-%Ilmu Pengetahuan Alam@Resky Amalia Hamka. S.Pd@N#-%Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@N#-%%%%%%%%%%%%%%",
@@ -7245,7 +7245,7 @@ window.SISWA_DATA = {
       "kelas": "IX.B",
       "kehadiranAmbang": "80",
       "abList": [
-        "Agu/03/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0114293816@SITI AISYA AZ-ZAHRA",
+        "Agu/03/2026@Agu/24/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@/n@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0114293816@SITI AISYA AZ-ZAHRA",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0114293816@SITI AISYA AZ-ZAHRA",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0114293816@SITI AISYA AZ-ZAHRA",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0114293816@SITI AISYA AZ-ZAHRA",
@@ -7300,7 +7300,7 @@ window.SISWA_DATA = {
     "0112149411": {
       "nisn": "0112149411",
       "password": "",
-      "rawSchedule": "08.10 - 10.10@Ilmu Pengetahuan Sosial@Kartini. S.Pd@*#10.40 - 12.40@Bahasa Inggris@Munaiya. S.Pd@*#######",
+      "rawSchedule": "08.10 - 10.10@Ilmu Pengetahuan Sosial@Kartini. S.Pd@/n#10.40 - 12.40@Bahasa Inggris@Munaiya. S.Pd@*#######",
       "rawAttendanceData": "Ilmu Pengetahuan Sosial@Kartini. S.Pd@1@0@0@0@0@0#Bahasa Inggris@Munaiya. S.Pd@0@0@0@0@0@0#Matematika@Rusni. S.Pd@0@0@0@0@0@0#Pendidikan Kewarganegaraan@Herdiana. S.Pd@0@0@0@0@0@0#Bahasa Indonesia@Hj. Salma. SS@0@0@0@0@0@0#Informatika@Sukma Tahir. S.Pd@0@0@0@0@0@0#Prakarya@Ariyani. S.Kom@0@0@0@0@0@0#Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Alam@Resky Amalia Hamka. S.Pd@0@0@0@0@0@0#Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@0@0@0@0@0@0##############",
       "rawAssessmentData": "Ilmu Pengetahuan Sosial@Kartini. S.Pd@0@0@0@0@0@0#Bahasa Inggris@Munaiya. S.Pd@0@0@0@0@0@0#Matematika@Rusni. S.Pd@0@0@0@0@0@0#Pendidikan Kewarganegaraan@Herdiana. S.Pd@0@0@0@0@0@0#Bahasa Indonesia@Hj. Salma. SS@0@0@0@0@0@0#Informatika@Sukma Tahir. S.Pd@0@0@0@0@0@0#Prakarya@Ariyani. S.Kom@0@0@0@0@0@0#Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@0@0@0@0@0@0#Ilmu Pengetahuan Alam@Resky Amalia Hamka. S.Pd@0@0@0@0@0@0#Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@0@0@0@0@0@0##############",
       "rawNotesData": "Ilmu Pengetahuan Sosial@Kartini. S.Pd@N#-%Bahasa Inggris@Munaiya. S.Pd@N#-%Matematika@Rusni. S.Pd@N#-%Pendidikan Kewarganegaraan@Herdiana. S.Pd@N#-%Bahasa Indonesia@Hj. Salma. SS@N#-%Informatika@Sukma Tahir. S.Pd@N#-%Prakarya@Ariyani. S.Kom@N#-%Pendidikan Jasmani. Olahraga. dan Kesehatan@Ilham Usman. S.Pd@N#-%Ilmu Pengetahuan Alam@Resky Amalia Hamka. S.Pd@N#-%Pendidikan Agama Islam dan Budi Pekerti@Faisal. S.Pd.I@N#-%%%%%%%%%%%%%%",
@@ -7309,7 +7309,7 @@ window.SISWA_DATA = {
       "kelas": "IX.B",
       "kehadiranAmbang": "80",
       "abList": [
-        "Agu/03/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0112149411@WINDA",
+        "Agu/03/2026@Agu/24/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@/n@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0112149411@WINDA",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0112149411@WINDA",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0112149411@WINDA",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0112149411@WINDA",
